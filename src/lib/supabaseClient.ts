@@ -1,7 +1,12 @@
-console.log("Supabase URL:", import.meta.env.VITE_SUPABASE_URL);
 import { createClient } from '@supabase/supabase-js'
 
-const supabaseUrl = 'https://majqwqxtdtjyotforfml.supabase.co'
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1hanF3cXh0ZHRqeW90Zm9yZm1sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTEzOTU4NTksImV4cCI6MjAyNjk3MTg1OX0.i_D29-87mO134_fHjP8n2C_uThtU3B-gCqY0qOq0f1I'
+// This tells the app to look at the environment variables we set up in GitHub
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL
+const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY
+
+// This check helps us see if the keys are actually working
+if (!supabaseUrl || !supabaseAnonKey) {
+    console.error("Supabase environment variables are missing!")
+}
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey)
