@@ -26,5 +26,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./dist/
           server-dir: ./public_html/
-          protocol: ftp
-          timeout: 600000
+          state-name: .ftp-deploy-sync-state.json
+          log-level: verbose
+          dangerous-clean-slate: false
