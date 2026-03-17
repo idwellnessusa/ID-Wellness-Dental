@@ -1,0 +1,762 @@
+{
+  "translation": {
+    "cta": {
+      "questions": "Perguntas?",
+      "haveMoreQuestions": "Tem mais perguntas?",
+      "haveMoreQuestionsTreatment": "Tem mais perguntas sobre este tratamento?",
+      "contactOurTeam": "Contate Nossa Equipe"
+    },
+    "seo": {
+      "title": "ID WELLNESS DENTAL | Odontologia Avançada e Estética Facial em Newark, NJ",
+      "description": "Experimente cuidados dentários de luxo e estética facial premium. De implantes a Botox, redefinimos o bem-estar em Newark."
+    },
+    "testimonials": {
+      "title": "Resultados Reais, Histórias Reais",
+      "subtitle": "Ouça nossos pacientes sobre suas experiências transformadoras.",
+      "verified": "Paciente Verificado",
+      "reviews": {
+        "1": {
+          "text": "A ID WELLNESS DENTAL transformou o meu sorriso e a minha confiança. O ambiente é tão relaxante!",
+          "name": "SARAH M."
+        },
+        "2": {
+          "text": "Os tratamentos de estética facial são incríveis. Nunca me senti tão rejuvenescido e cuidado por uma equipe tão profissional.",
+          "name": "MICHAEL T."
+        },
+        "3": {
+          "text": "Desde o momento em que entrei, sabia que estava em boas mãos. A melhor experiência odontológica que já tive.",
+          "name": "ELENA R."
+        },
+        "4": {
+          "text": "A equipe é incrivelmente acolhedora e os resultados do meu tratamento foram imediatos. Altamente recomendado!",
+          "name": "DAVID L."
+        },
+        "5": {
+          "text": "Eu estava nervoso em colocar implantes, mas a equipe tornou o processo indolor e os resultados são impressionantes.",
+          "name": "JESSICA W."
+        }
+      }
+    },
+    "nav": {
+      "about": "Sobre",
+      "services": "Serviços",
+      "beforeAfter": "Antes e Depois",
+      "contact": "Contato",
+      "financing": "Financiamento",
+      "bookConsultation": "Agendar Consulta"
+    },
+    "hero": {
+      "badge": "Estúdio Odontológico Premium",
+      "title1": "Onde a Odontologia Avançada Encontra o",
+      "title2": "Bem-Estar Estético.",
+      "desc": "Experimente um novo padrão de atendimento. O ID WELLNESS DENTAL combina procedimentos odontológicos de ponta com estética facial premium em um ambiente luxuoso e relaxante.",
+      "bookBtn": "Agendar uma Consulta",
+      "exploreBtn": "Explorar Serviços",
+      "trustedBy": "Confiável por mais de 1.000 pacientes na área."
+    },
+    "trust": {
+      "starTitle": "Avaliação de 5 Estrelas",
+      "starDesc": "Consistentemente altamente avaliado por nossos pacientes.",
+      "teamTitle": "Equipe Médica Especializada",
+      "teamDesc": "Especialistas certificados.",
+      "payTitle": "Planos de Pagamento Flexíveis",
+      "payDesc": "Tornando o atendimento premium acessível a você."
+    },
+    "goals": {
+      "title": "Qual é o seu Objetivo?",
+      "desc": "Selecione o resultado desejado para descobrir os tratamentos perfeitos adaptados a você.",
+      "brighterSmile": "Sorriso Mais Brilhante",
+      "straightenTeeth": "Alinhar Dentes",
+      "sharpJawline": "Mandíbula Definida",
+      "healthyGums": "Gengivas Saudáveis",
+      "wrinkleFree": "Ano Sem Rugas",
+      "wrinkleFreeDesc": "Junte-se ao nosso ID Botox Club por $100/mês e mantenha-se suave o ano todo.",
+      "affordableSmile": "Sorriso de Luxo Acessível",
+      "affordableSmileDesc": "Junte-se ao Plano ID Bright Smile para economias exclusivas de 20%.",
+      "idBrightSmilePlan": "Plano ID Bright Smile",
+      "idBrightSmilePlanDesc": "Junte-se ao nosso plano de adesão exclusivo para atendimento odontológico premium, clareamento profissional e economias significativas sem a necessidade de seguro tradicional.",
+      "bestSeller": "Mais Vendido",
+      "memberExclusive": "Exclusivo para Membros",
+      "bestValue": "Melhor Valor"
+    },
+    "services": {
+      "title": "Nossos Serviços Premium",
+      "desc": "Tratamentos personalizados projetados para realçar sua beleza natural e garantir uma saúde bucal ideal.",
+      "cosmeticTitle": "Odontologia Cosmética",
+      "cosmeticDesc": "Alcance o sorriso perfeito com nossos serviços avançados de odontologia estética.",
+      "cosmeticBtn": "Explorar Cosmética",
+      "generalTitle": "Odontologia Geral",
+      "generalDesc": "Mantenha uma saúde bucal ideal com nossos serviços odontológicos gerais abrangentes.",
+      "generalBtn": "Explorar Geral",
+      "orthoTitle": "Ortodontia",
+      "orthoDesc": "Endireite seus dentes discretamente com nossas soluções ortodônticas avançadas.",
+      "orthoBtn": "Explorar Ortodontia",
+      "implantsTitle": "Implantes",
+      "implantsDesc": "Restaure dentes ausentes com implantes dentários permanentes e de aparência natural.",
+      "implantsBtn": "Explorar Implantes",
+      "endoTitle": "Endodontia",
+      "endoDesc": "Salve dentes infectados e alivie a dor com terapia de canal especializada.",
+      "endoBtn": "Explorar Endodontia",
+      "surgicalTitle": "Cirúrgico",
+      "surgicalDesc": "Procedimentos de cirurgia oral especializada para necessidades dentárias complexas.",
+      "surgicalBtn": "Explorar Cirúrgico",
+      "perioTitle": "Periodontia",
+      "perioDesc": "Gengivas saudáveis são a base de um sorriso saudável.",
+      "perioBtn": "Explorar Periodontia",
+      "facialTitle": "Estética Facial",
+      "facialDesc": "Rejuvenesça sua aparência com nossos tratamentos faciais não cirúrgicos.",
+      "facialBtn": "Explorar Estética Facial",
+      "viewCategory": "Ver Categoria"
+    },
+    "bot": {
+      "chatTitle": "Converse conosco",
+      "sentTitle": "Mensagem Enviada!",
+      "sentDesc": "Entraremos em contato com você em breve.",
+      "sendAnother": "Enviar outra mensagem",
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "email": "Endereço de E-mail",
+      "phone": "Número de Telefone",
+      "message": "Como podemos ajudar?",
+      "sending": "Enviando...",
+      "sendBtn": "Enviar Mensagem",
+      "legal": "Ao enviar, você autoriza o ID WELLNESS DENTAL a enviar mensagens de texto com ofertas e outras informações, possivelmente usando tecnologia automatizada, para o número que você forneceu. Taxas de mensagens e dados se aplicam.",
+      "speechBubble": "Olá! Precisa de ajuda? Envie-nos uma mensagem!"
+    },
+    "footer": {
+      "desc": "Elevando sua confiança através da odontologia avançada e bem-estar estético premium.",
+      "quickLinks": "Links Rápidos",
+      "contact": "Contato",
+      "medicalSafety": "Segurança Médica e Privacidade de Dados:",
+      "medicalDesc": "Todos os procedimentos são realizados por profissionais licenciados sob supervisão médica. Mantemos um ambiente digital 100% compatível com HIPAA. Suas consultas e registros são tratados com o mais alto nível de discrição clínica.",
+      "rights": "ID WELLNESS DENTAL. Todos os direitos reservados.",
+      "workingHours": "Horário de Funcionamento",
+      "schedule": {
+        "mon": "Segunda-feira: 9:00 AM – 7:00 PM",
+        "thu": "Quinta-feira: 9:00 AM – 7:00 PM",
+        "fri": "Sexta-feira: 9:00 AM – 7:00 PM",
+        "sat": "Sábado: 9:00 AM – 7:00 PM"
+      }
+    },
+    "serviceDetails": {
+      "cosmetic-dentistry": {
+        "title": "Odontologia Cosmética",
+        "description": "Alcance o sorriso perfeito com nossos serviços avançados de odontologia estética, utilizando a mais recente tecnologia para resultados indolores e impressionantes.",
+        "longDescription": "Nossa equipe de estética odontológica é dedicada a lhe dar o sorriso dos seus sonhos. Usamos tecnologia de ponta e técnicas minimamente invasivas para garantir seu conforto e entregar resultados excepcionais e de aparência natural.",
+        "services": {
+          "porcelain-crowns": {
+            "name": "Coroas de Porcelana",
+            "description": "Restaure a força e a beleza dos dentes danificados com coroas de porcelana personalizadas.",
+            "painLevel": "Mínimo",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "porcelain-veneers": {
+            "name": "Facetas de Porcelana",
+            "description": "Transforme seu sorriso com facetas de porcelana feitas sob medida que cobrem imperfeições.",
+            "painLevel": "Mínimo",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "composite-veneers": {
+            "name": "Facetas de Resina",
+            "description": "Melhore seu sorriso em uma visita com facetas de resina composta esculpidas diretamente.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "teeth-whitening": {
+            "name": "Clareamento Dental",
+            "description": "Clareie seu sorriso em vários tons com nossos tratamentos de clareamento seguros e eficazes.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "smile-design": {
+            "name": "Design de Sorriso",
+            "description": "Planejamento digital completo para criar o sorriso harmonioso e perfeito para o seu rosto.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Planejamento"
+          }
+        }
+      },
+      "general-dentistry": {
+        "title": "Odontologia Geral",
+        "description": "Mantenha uma saúde bucal ideal com nossos serviços odontológicos gerais abrangentes.",
+        "longDescription": "A prevenção é a chave para um sorriso saudável. Nossos serviços de odontologia geral focam na manutenção da saúde bucal, prevenção de doenças e tratamento de problemas comuns de forma eficaz.",
+        "services": {
+          "routine-cleanings": {
+            "name": "Limpezas de Rotina",
+            "description": "Remoção profissional de placa e tártaro para prevenir cáries e doenças gengivais.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "digital-xrays": {
+            "name": "Raios-X Digitais",
+            "description": "Imagens digitais de baixa radiação para um diagnóstico preciso.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "fillings": {
+            "name": "Restaurações",
+            "description": "Restaure dentes cariados com materiais compostos da cor do dente para uma aparência natural.",
+            "painLevel": "Mínimo",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "night-guards": {
+            "name": "Protetores Noturnos",
+            "description": "Proteja seus dentes do ranger e apertar com protetores noturnos personalizados.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "tooth-extractions": {
+            "name": "Extrações Dentárias",
+            "description": "Remoção segura e suave de dentes problemáticos.",
+            "painLevel": "Leve",
+            "downtime": "1-3 Dias",
+            "results": "Imediatos"
+          },
+          "sealants": {
+            "name": "Selantes",
+            "description": "Proteja seus dentes contra cáries com revestimentos protetores.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          },
+          "sealants": {
+            "name": "Selantes",
+            "description": "Proteja seus dentes contra cáries com revestimentos protetores.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Imediatos"
+          }
+        }
+      },
+      "orthodontics": {
+        "title": "Ortodontia",
+        "description": "Endireite seus dentes discretamente com nossas soluções ortodônticas avançadas.",
+        "longDescription": "Oferecemos soluções modernas para alinhar seu sorriso sem o desconforto dos aparelhos tradicionais. Nossos tratamentos são personalizados para suas necessidades específicas.",
+        "services": {
+          "invisalign": {
+            "name": "Invisalign",
+            "description": "Alinhadores transparentes e removíveis para endireitar os dentes discretamente.",
+            "painLevel": "Leve",
+            "downtime": "Nenhum",
+            "results": "Progressivos"
+          },
+          "porcelain-braces": {
+            "name": "Aparelhos de Porcelana",
+            "description": "Braquetes discretos da cor do dente para um alinhamento eficaz.",
+            "painLevel": "Leve",
+            "downtime": "Nenhum",
+            "results": "Progressivos"
+          },
+          "metal-braces": {
+            "name": "Aparelhos Metálicos",
+            "description": "Braquetes tradicionais e duráveis para problemas complexos de alinhamento.",
+            "painLevel": "Leve",
+            "downtime": "Nenhum",
+            "results": "Progressivos"
+          },
+          "retainers": {
+            "name": "Contenções",
+            "description": "Mantenha seu novo sorriso perfeitamente alinhado após o tratamento ortodôntico.",
+            "painLevel": "Nenhum",
+            "downtime": "Nenhum",
+            "results": "Manutenção"
+          }
+        }
+      },
+      "implants": {
+        "title": "Implantes Dentários",
+        "description": "Restaure dentes ausentes com implantes dentários permanentes e de aparência natural.",
+        "longDescription": "Recupere a função completa e a estética do seu sorriso com nossos implantes dentários de última geração. Uma solução duradoura para dentes perdidos.",
+        "services": {
+          "single-tooth": {
+            "name": "Implante Unitário",
+            "description": "Substituição de um único dente perdido, desde a raiz até a coroa.",
+            "painLevel": "Moderado",
+            "downtime": "2-3 Dias",
+            "results": "Permanentes"
+          },
+          "all-on-4": {
+            "name": "All-on-4",
+            "description": "Restauração completa do arco dentário suportada por apenas quatro implantes.",
+            "painLevel": "Moderado",
+            "downtime": "3-5 Dias",
+            "results": "Imediatos"
+          }
+        }
+      },
+      "endodontics": {
+        "title": "Endodontia",
+        "description": "Salve dentes infectados e alivie a dor com terapia de canal especializada.",
+        "longDescription": "Nossos especialistas em endodontia dedicam-se a salvar seus dentes naturais e eliminar a dor causada por infecções profundas.",
+        "services": {
+          "root-canal": {
+            "name": "Canal Radicular",
+            "description": "Remoção da polpa infectada para salvar o dente e eliminar a dor.",
+            "painLevel": "Leve",
+            "downtime": "1 Dia",
+            "results": "Imediatos"
+          },
+          "pulpoctomy": {
+            "name": "Pulpectomia",
+            "description": "Remoção do tecido pulpar infectado para salvar o dente.",
+            "painLevel": "Leve",
+            "downtime": "1 Dia",
+            "results": "Imediatos"
+          },
+          "endodontic-retreatment": {
+            "name": "Retratamento Endodôntico",
+            "description": "Cuidado especializado para dentes tratados anteriormente que não cicatrizaram.",
+            "painLevel": "Leve",
+            "downtime": "1-2 Dias",
+            "results": "Cicatrização"
+          }
+        }
+      },
+      "surgical": {
+        "title": "Cirúrgico",
+        "description": "Procedimentos de cirurgia oral especializada para necessidades dentárias complexas.",
+        "longDescription": "Realizamos procedimentos cirúrgicos com precisão e cuidado, garantindo sua segurança e conforto em cada etapa do processo.",
+        "services": {
+          "wisdom-teeth": {
+            "name": "Dentes do Siso",
+            "description": "Extração cirúrgica dos terceiros molares impactados ou problemáticos.",
+            "painLevel": "Moderado",
+            "downtime": "3-5 Dias",
+            "results": "Permanentes"
+          },
+          "sinus-lifts": {
+            "name": "Levantamento de Seio Maxilar",
+            "description": "Aumento ósseo na mandíbula superior para permitir a colocação de implantes.",
+            "painLevel": "Moderado",
+            "downtime": "3-7 Dias",
+            "results": "4-6 Meses"
+          },
+          "bone-grafting": {
+            "name": "Enxerto Ósseo",
+            "description": "Reconstrução do osso maxilar para suportar implantes dentários com sucesso.",
+            "painLevel": "Moderado",
+            "downtime": "3-7 Dias",
+            "results": "3-4 Meses"
+          },
+          "oral-biopsies": {
+            "name": "Biopsias Orais",
+            "description": "Procedimento de diagnóstico para anormalidades do tecido oral.",
+            "painLevel": "Leve",
+            "downtime": "1-2 Dias",
+            "results": "Diagnóstico"
+          }
+        }
+      },
+      "periodontics": {
+        "title": "Periodontia",
+        "description": "Gengivas saudáveis são a base de um sorriso saudável.",
+        "longDescription": "Focamos na prevenção, diagnóstico e tratamento de doenças gengivais para proteger a fundação do seu sorriso.",
+        "services": {
+          "scaling": {
+            "name": "Raspagem e Alisamento Radicular",
+            "description": "Limpeza profunda abaixo da linha da gengiva para tratar doenças gengivais.",
+            "painLevel": "Leve",
+            "downtime": "1 Dia",
+            "results": "Progressivos"
+          },
+          "gum-grafting": {
+            "name": "Enxerto Gengival",
+            "description": "Restauração de tecido gengival retraído para proteger as raízes dos dentes.",
+            "painLevel": "Moderado",
+            "downtime": "3-7 Dias",
+            "results": "Permanentes"
+          },
+          "crown-lengthening": {
+            "name": "Aumento de Coroa",
+            "description": "Remoção do excesso de tecido gengival para expor mais do dente.",
+            "painLevel": "Leve",
+            "downtime": "2-4 Dias",
+            "results": "Imediatos"
+          }
+        }
+      },
+      "facial-esthetics": {
+        "title": "Estética Facial",
+        "description": "Rejuvenesça sua aparência com nossos tratamentos faciais não cirúrgicos.",
+        "longDescription": "Complemente seu sorriso com nossos tratamentos de estética facial. Realçamos sua beleza natural suavizando linhas e restaurando volume.",
+        "services": {
+          "botox": {
+            "name": "Botox e Neuromoduladores",
+            "description": "Suavize linhas finas e previna rugas para uma aparência rejuvenescida.",
+            "painLevel": "Mínimo",
+            "downtime": "Nenhum",
+            "results": "3-14 Dias"
+          },
+          "fillers": {
+            "name": "Preenchimentos Dérmicos",
+            "description": "Restaure volume e contorno facial com preenchimentos de ácido hialurônico.",
+            "painLevel": "Leve",
+            "downtime": "1-2 Dias",
+            "results": "Imediatos"
+          },
+          "collagen": {
+            "name": "Estimuladores de Colágeno",
+            "description": "Estimule a produção natural de colágeno para resultados duradouros e naturais.",
+            "painLevel": "Leve",
+            "downtime": "1-3 Dias",
+            "results": "Progressivos"
+          }
+        }
+      }
+    },
+    "servicePage": {
+      "notFound": "Serviço Não Encontrado",
+      "backToHome": "Voltar ao Início",
+      "backToServices": "Voltar aos Serviços",
+      "featuredTreatment": "Tratamento em Destaque",
+      "ultimateGlowTitle": "O Sorriso Supremo ID",
+      "ultimateGlowDesc": "Nossa transformação de sorriso exclusiva. Combinamos facetas de porcelana, clareamento profissional e contorno gengival para criar seu sorriso perfeito. Perfeito para casamentos, eventos ou uma transformação total.",
+      "perSession": "Por Caso",
+      "painLevel": "Nível de Dor",
+      "downtime": "Tempo de Inatividade",
+      "results": "Resultados",
+      "zeroRelaxing": "Mínimo",
+      "noneInstantGlow": "Nenhum",
+      "visibleWithin24": "Imediato",
+      "overview": "Visão Geral",
+      "whatWeOffer": "O Que Oferecemos",
+      "discreetConsultations": "Consultas Discretas e Privadas Garantidas.",
+      "readyToTransform": "Pronto para transformar?",
+      "scheduleConsultation": "Agende uma consulta com nossos especialistas para discutir seus objetivos e criar um plano de tratamento personalizado.",
+      "bookConsultation": "Agendar Consulta"
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "subtitle": "Encontre respostas para perguntas comuns sobre nossos tratamentos, opções de financiamento e o que esperar durante sua visita.",
+      "stillHaveQuestions": "Ainda tem dúvidas?",
+      "contactUs": "Não consegue encontrar a resposta que está procurando? Nossa equipe amigável está aqui para ajudá-lo com qualquer informação adicional que você precise.",
+      "contactBtn": "Contate-nos",
+      "categories": {
+        "cosmetic": "Odontologia Cosmética",
+        "general": "Odontologia Geral",
+        "ortho": "Ortodontia",
+        "implants": "Implantes Dentários",
+        "endo": "Endodontia",
+        "surgical": "Cirúrgico e Periodontia",
+        "facial": "Estética Facial",
+        "financing": "Financiamento e Membros"
+      },
+      "q": {
+        "cosmetic1": {
+          "q": "Quanto tempo duram as facetas de porcelana?",
+          "a": "Com cuidados adequados e check-ups regulares, as facetas de porcelana geralmente duram de 10 a 15 anos ou mais. Usamos materiais de alta qualidade resistentes a manchas e lascas."
+        },
+        "cosmetic2": {
+          "q": "Terei sensibilidade após o clareamento dental?",
+          "a": "Alguns pacientes sentem sensibilidade temporária, mas nossos sistemas profissionais incluem agentes dessensibilizantes. Qualquer desconforto geralmente desaparece em 24-48 horas."
+        },
+        "cosmetic3": {
+          "q": "O que é o processo de Design de Sorriso?",
+          "a": "É um planejamento abrangente onde usamos tecnologia digital para analisar seus traços faciais e projetar um sorriso que complemente perfeitamente sua aparência única antes de iniciar o tratamento."
+        },
+        "general1": {
+          "q": "Com que frequência devo fazer uma limpeza dental?",
+          "a": "Recomendamos limpezas profissionais a cada 6 meses. Se tiver histórico de doença gengival, podemos sugerir visitas mais frequentes."
+        },
+        "general2": {
+          "q": "Por que os selantes dentários são importantes?",
+          "a": "Os selantes criam uma barreira protetora contra bactérias que causam cáries, especialmente nos molares. São uma medida preventiva muito eficaz para crianças e adultos."
+        },
+        "general3": {
+          "q": "Os raios-X digitais são seguros?",
+          "a": "Sim, são extremamente seguros e emitem até 90% menos radiação que os tradicionais. Além disso, fornecem imagens instantâneas de alta definição para diagnósticos precisos."
+        },
+        "ortho1": {
+          "q": "Devo escolher Invisalign ou aparelho tradicional?",
+          "a": "Invisalign é ideal para corrigir problemas leves a moderados discretamente, enquanto aparelhos tradicionais podem ser melhores para casos complexos. Recomendaremos a melhor opção para você."
+        },
+        "ortho2": {
+          "q": "Quanto tempo dura o tratamento ortodôntico?",
+          "a": "O tempo varia conforme a complexidade, mas a maioria completa o tratamento em 12 a 24 meses. Podemos dar um cronograma mais preciso após seu exame."
+        },
+        "ortho3": {
+          "q": "Preciso usar contenção após o tratamento?",
+          "a": "Sim, é essencial para evitar que os dentes voltem à posição original. Oferecemos opções fixas e removíveis para manter seu novo sorriso."
+        },
+        "implants1": {
+          "q": "Qual a taxa de sucesso dos implantes dentários?",
+          "a": "Têm taxa de sucesso superior a 95%. Com colocação e cuidados adequados, são uma solução permanente que parece, se sente e funciona como dentes naturais."
+        },
+        "implants2": {
+          "q": "Como é a recuperação dos implantes?",
+          "a": "A maioria sente desconforto leve por alguns dias, controlável com analgésicos comuns. Geralmente pode voltar ao trabalho e atividades normais em 1-2 dias."
+        },
+        "implants3": {
+          "q": "Por que implantes são melhores que pontes?",
+          "a": "Ao contrário das pontes, não exigem alteração de dentes vizinhos saudáveis. Também estimulam o osso maxilar para prevenir perda óssea e manter sua estrutura facial."
+        },
+        "endo1": {
+          "q": "Tratamento de canal dói?",
+          "a": "A terapia moderna é praticamente indolor graças a anestésicos avançados. O procedimento é projetado para aliviar a dor causada pela infecção, não causá-la."
+        },
+        "endo2": {
+          "q": "Quais os sinais de infecção na polpa?",
+          "a": "Dor de dente severa, sensibilidade prolongada ao calor ou frio, descoloração do dente e inchaço ou sensibilidade nas gengivas próximas."
+        },
+        "endo3": {
+          "q": "Por que devo salvar meu dente natural?",
+          "a": "Salvar seu dente natural é sempre a melhor opção. Mantém sua mordida natural, mastigação eficiente e sensação normal, algo que nenhuma substituição replica totalmente."
+        },
+        "surgical1": {
+          "q": "Quanto tempo dura a recuperação do siso?",
+          "a": "A cicatrização inicial leva 3-5 dias. Pode haver inchaço e desconforto, mas seguir nossas instruções pós-operatórias garantirá uma recuperação rápida."
+        },
+        "surgical2": {
+          "q": "Quando é necessário enxerto ósseo?",
+          "a": "Frequentemente necessário quando não há osso maxilar suficiente para suportar um implante. Reconstrói o osso para garantir uma base estável e duradoura."
+        },
+        "surgical3": {
+          "q": "Como tratam a doença gengival?",
+          "a": "Oferecemos desde raspagem e alisamento radicular (limpeza profunda) até terapia a laser avançada e enxertos gengivais, dependendo da gravidade."
+        },
+        "facial1": {
+          "q": "Como o Botox complementa meu sorriso?",
+          "a": "Pode suavizar linhas dos lábios, corrigir \"sorriso gengival\" e relaxar músculos faciais para emoldurar seu sorriso com uma aparência mais jovem."
+        },
+        "facial2": {
+          "q": "Meus preenchimentos dérmicos parecerão naturais?",
+          "a": "Absolutamente. Nossos especialistas usam uma abordagem \"menos é mais\" para restaurar volume sutilmente, garantindo que você pareça uma versão renovada de si mesmo."
+        },
+        "facial3": {
+          "q": "Quanto duram os tratamentos estéticos?",
+          "a": "O Botox dura tipicamente 3-4 meses, enquanto preenchimentos podem durar de 6 a 18 meses, dependendo do produto e área tratada."
+        },
+        "financing1": {
+          "q": "Quais os benefícios do Plano ID Bright Smile?",
+          "a": "Inclui duas limpezas profissionais, raios-X e exames ilimitados, e 20% de desconto em outros tratamentos por uma taxa anual baixa, sem burocracia de seguro."
+        },
+        "financing2": {
+          "q": "O plano de adesão é melhor que seguro?",
+          "a": "Para muitos, sim. Elimina franquias, carências, máximos anuais e negações, oferecendo acesso transparente e acessível a cuidados premium."
+        },
+        "financing3": {
+          "q": "Que opções de pagamento flexíveis oferecem?",
+          "a": "Aceitamos todos os cartões de crédito e oferecemos financiamento via Cherry e CareCredit, incluindo opções de 0% APR para pacientes qualificados."
+        }
+      }
+    },
+    "contact": {
+      "title": "Fale Conosco",
+      "subtitle": "Estamos aqui para responder suas perguntas e ajudá-lo a agendar sua próxima visita.",
+      "form": {
+        "title": "Envie-nos uma mensagem",
+        "success": {
+          "title": "Mensagem Enviada!",
+          "desc": "Obrigado por entrar em contato. Retornaremos em breve.",
+          "btn": "Enviar outra mensagem"
+        },
+        "firstName": "Nome",
+        "lastName": "Sobrenome",
+        "email": "Endereço de E-mail",
+        "phone": "Número de Telefone",
+        "message": "Mensagem",
+        "messagePlaceholder": "Como podemos ajudar?",
+        "sending": "Enviando...",
+        "submit": "Enviar Mensagem",
+        "error": {
+          "generic": "Algo deu errado. Por favor, tente novamente.",
+          "failed": "Falha ao enviar mensagem. Por favor, tente novamente mais tarde."
+        }
+      },
+      "info": {
+        "visit": "Visite-nos",
+        "call": "Ligue para nós",
+        "hours": "Seg, Qui, Sex, Sáb: 9:00 AM – 7:00 PM",
+        "email": "Envie-nos um e-mail",
+        "reply": "Respondemos em até 24 horas"
+      }
+    },
+    "beforeAfter": {
+      "title": "Resultados Reais de Pacientes",
+      "subtitle": "Veja o poder transformador de nossos tratamentos.",
+      "before": "Antes",
+      "after": "Depois",
+      "viewCases": "Ver Casos",
+      "bookConsultation": "Agende sua Consulta de {{treatment}}",
+      "cases": {
+        "smile": {
+          "title": "Transformação do Sorriso",
+          "desc": "Reconstrução total da boca com facetas de porcelana.",
+          "description": "Veja como nossas transformações abrangentes do sorriso transformaram a confiança de nossos pacientes. Esses casos destacam o poder de combinar facetas, coroas e clareamento profissional para obter um sorriso impecável e natural.",
+          "cases": {
+            "1": "Facetas de porcelana completas para corrigir o alinhamento e o tom.",
+            "2": "Reconstrução completa do sorriso com coroas personalizadas.",
+            "3": "Facetas e clareamento profissional para um sorriso mais brilhante.",
+            "4": "Fechamento de espaços e correção de lascas com facetas de porcelana.",
+            "5": "Restauração de arco completo para uma aparência harmoniosa.",
+            "6": "Correção de descoloração e desalinhamento menor.",
+            "7": "Facetas premium para um visual natural e juvenil.",
+            "8": "Transformação total da mordida e do apelo estético."
+          }
+        },
+        "facial": {
+          "title": "Rejuvenescimento Facial",
+          "desc": "Lifting facial não cirúrgico com preenchimentos dérmicos.",
+          "description": "Explore os resultados sutis, porém profundos, de nossos tratamentos de rejuvenescimento facial não cirúrgicos. Do Botox aos preenchimentos dérmicos, veja como restauramos o volume, suavizamos as rugas e realçamos a beleza natural.",
+          "cases": {
+            "1": "Preenchimentos dérmicos para restaurar o volume do terço médio da face.",
+            "2": "Tratamento com Botox para suavizar as linhas da testa.",
+            "3": "Contorno da mandíbula para um perfil mais definido.",
+            "4": "Preenchimento labial para uma plenitude de aparência natural.",
+            "5": "Rejuvenescimento das pálpebras inferiores para reduzir olheiras.",
+            "6": "Lifting facial líquido completo para um visual renovado.",
+            "7": "Correção do sulco nasogeniano com preenchimentos.",
+            "8": "Preenchimento de bochechas para maior definição."
+          }
+        },
+        "invisalign": {
+          "title": "Tratamento Invisalign",
+          "desc": "Correção de alinhamento de 12 meses.",
+          "description": "Testemunhe a jornada para um sorriso perfeitamente alinhado com o Invisalign. Estas fotos de antes e depois mostram a eficácia dos alinhadores transparentes na correção de apinhamento, espaçamento e problemas de mordida de forma discreta.",
+          "cases": {
+            "1": "Correção de apinhamento severo em 12 meses.",
+            "2": "Fechamento de um espaço significativo entre os dentes frontais.",
+            "3": "Correção de sobremordida com alinhadores transparentes.",
+            "4": "Alinhamento dos dentes inferiores para melhor funcionalidade.",
+            "5": "Correção discreta de desalinhamento menor.",
+            "6": "Alargamento do arco do sorriso com Invisalign.",
+            "7": "Resolução eficaz de problemas de mordida cruzada.",
+            "8": "Alcance de simetria perfeita em 10 meses."
+          }
+        }
+      }
+    },
+    "about": {
+      "title": "Sobre Nós",
+      "subtitle": "Descubra a história por trás do ID WELLNESS DENTAL e nosso compromisso com sua saúde e beleza.",
+      "story": {
+        "title": "Nossa Evolução",
+        "p1": "Na ID Wellness, nossa jornada sempre foi guiada por uma missão simples: cuidar da nossa comunidade, fornecendo serviços de saúde personalizados e de alta qualidade.",
+        "p2": "O que começou como um centro de bem-estar e estética evoluiu gradualmente à medida que ouvimos atentamente as necessidades de nossos pacientes. Nos últimos dois anos, o atendimento odontológico tornou-se um dos serviços mais solicitados e valorizados em nossa prática. Por meio dessa experiência, percebemos que nossa comunidade precisava de um local de confiança focado em oferecer um atendimento odontológico excepcional em um ambiente moderno e confortável.",
+        "p3": "Hoje, a ID Wellness orgulhosamente evoluiu para uma clínica odontológica dedicada, permitindo-nos focar inteiramente no que mais importa: seu sorriso, sua saúde bucal e seu bem-estar a longo prazo.",
+        "p4": "Nossa equipe está comprometida em combinar tecnologia odontológica avançada, planos de tratamento personalizados e uma abordagem centrada no paciente para garantir que cada visita seja confortável, transparente e orientada para resultados. Do atendimento preventivo à odontologia restauradora e estética, nos esforçamos para oferecer tratamentos que melhorem tanto a função quanto a confiança.",
+        "p5": "Essa transformação representa nosso compromisso com o crescimento, a inovação e, o mais importante, servir nossa comunidade da melhor maneira possível.",
+        "p6": "Na ID Wellness Dental Clinic, seu sorriso é nossa prioridade."
+      },
+      "stats": {
+        "experience": "Anos de Experiência",
+        "patients": "Pacientes Felices"
+      },
+      "team": {
+        "title": "Conheça Nossa Equipe",
+        "subtitle": "Nossos especialistas certificados e profissionais dedicados estão aqui para fornecer o mais alto padrão de atendimento.",
+        "mohammed": {
+          "name": "Dra. Liya Mohammed, DDS",
+          "title": "Membro do Conselho",
+          "shortBio": "A Dra. Liya Mohammed é uma dentista altamente qualificada formada pela NYU, dedicada a oferecer um atendimento excepcional e centrado no paciente. Com vasta experiência em procedimentos avançados, como implantes e odontologia estética, ela se concentra na saúde bucal a longo prazo e em resultados bonitos.",
+          "fullBio": {
+            "p1": "A Dra. Liya Mohammed é uma dentista altamente qualificada e compassiva, dedicada a oferecer cuidados odontológicos excepcionais com uma abordagem centrada no paciente. Ela se formou na Faculdade de Odontologia da Universidade de Nova York (NYU) em 2014 e tem praticado odontologia continuamente desde então, ganhando vasta experiência em uma ampla gama de procedimentos odontológicos.",
+            "p2": "A Dra. Mohammed oferece cuidados odontológicos abrangentes, desde exames de rotina e tratamentos preventivos até procedimentos avançados, como implantes dentários, tratamento de canal (RCT), tratamentos periodontais, odontologia restauradora, odontologia estética, procedimentos cirúrgicos e enxerto ósseo. Sua experiência clínica permite que ela crie planos de tratamento precisos e personalizados, adaptados às necessidades de cada paciente.",
+            "p3": "Seus idiomas principais são o inglês e o amárico, o que lhe permite se comunicar confortavelmente com uma ampla gama de pacientes. Ela também tem conhecimento prático de português e espanhol, ajudando-a a se conectar com ainda mais membros da comunidade diversificada que atende.",
+            "p4": "A Dra. Mohammed compartilha a filosofia de cuidado da ID Wellness Dental Clinic, onde cada paciente é tratado com respeito, atenção e dedicação. Sua prioridade é sempre fornecer a melhor abordagem de tratamento possível, concentrando-se na saúde bucal a longo prazo, no conforto e em resultados bonitos.",
+            "p5": "Ela acredita que a odontologia não se trata apenas de tratar dentes, mas de melhorar a confiança, a saúde e a qualidade de vida geral. A Dra. Mohammed tem orgulho de servir a comunidade de Newark e está comprometida em ajudar os pacientes a alcançar sorrisos saudáveis e confiantes."
+          }
+        },
+        "paneca": {
+          "name": "Dra. Liany Rodriguez Paneca, DMD",
+          "title": "Dentista Associada",
+          "shortBio": "A Dra. Liany Rodriguez Paneca traz uma abordagem moderna e focada no paciente para a odontologia, combinando treinamento clínico avançado com um forte compromisso com a excelência no atendimento.",
+          "fullBio": {
+            "p1": "A Dra. Liany Rodriguez Paneca traz uma abordagem moderna e focada no paciente para a odontologia, combinando treinamento clínico avançado com um forte compromisso com a excelência no atendimento.",
+            "p2": "Ela concluiu sua educação odontológica na prestigiada Universidade da Pensilvânia – Penn Dental Medicine, onde aprimorou suas habilidades em odontologia abrangente e restauradora.",
+            "p3": "Com experiência atuando em Nova Jersey, a Dra. Paneca é qualificada na prestação de uma ampla gama de tratamentos, incluindo cuidados preventivos, procedimentos restauradores, extrações e tratamentos endodônticos.",
+            "p4": "Sua filosofia centra-se em proporcionar uma experiência confortável e personalizada, garantindo os mais altos padrões de precisão e cuidado. Ela se dedica a ajudar os pacientes a se sentirem confiantes em seus sorrisos e em sua saúde bucal geral."
+          }
+        },
+        "santos": {
+          "title": "Gerente de Escritório",
+          "shortBio": "Clara Santos é a Gerente de Escritório na ID Wellness Dental Clinic, garantindo que cada paciente receba uma experiência fluida, acolhedora e bem organizada. Com vasta experiência em gestão odontológica, ela orienta habilmente os pacientes através de consultas, seguros e agendamento de tratamentos.",
+          "fullBio": {
+            "p1": "Clara Santos é a Gerente de Escritório na ID Wellness Dental Clinic, onde desempenha um papel fundamental para garantir que cada paciente receba uma experiência fluida, acolhedora e bem organizada desde o momento em que entra em contato com o escritório.",
+            "p2": "Com vasta experiência em gestão de consultórios odontológicos, Clara é conhecida por suas excelentes habilidades de comunicação e sua capacidade de guiar os pacientes em cada etapa de sua visita. Ela auxilia na coordenação de consultas, dúvidas sobre seguros, agendamento de tratamentos e suporte ao paciente, ajudando a tornar cada visita o mais confortável e livre de estresse possível.",
+            "p3": "Clara é apaixonada por construir relacionamentos fortes com os pacientes e garantir que eles se sintam ouvidos, respeitados e bem cuidados. Sua abordagem amigável e atenção aos detalhes ajudam a criar o ambiente caloroso e profissional que define a ID Wellness Dental Clinic.",
+            "p4": "Trabalhando em estrecha colaboração com a equipe clínica, Clara ajuda a garantir que o escritório opere de forma eficiente, mantendo os altos padrões de atendimento que os pacientes esperam."
+          }
+        },
+        "labels": {
+          "education": "Educação",
+          "languages": "Idiomas",
+          "experience": "Experiência",
+          "philosophy": "Filosofia de Cuidado",
+          "backToTeam": "Voltar para a Equipe"
+        }
+      }
+    },
+    "financing": {
+      "title": "Planos de Pagamento Flexíveis",
+      "subtitle": "Acreditamos que todos merecem acesso a cuidados de qualidade. Escolha a opção de pagamento que melhor funciona para você.",
+      "cherry_title": "Cherry",
+      "carecredit_title": "CareCredit",
+      "tox_club_title": "Botox Club",
+      "tox_club_price": "$100/mês",
+      "tox_club_desc": "Acumule seu dinheiro para tratamentos futuros!",
+      "cherry": {
+        "desc": "Receba tratamento agora e pague ao longo do tempo com Cherry. Inscreva-se em segundos e escolha entre planos de pagamento flexíveis.",
+        "feature1": "Sem verificação de crédito rígida",
+        "feature2": "Decisão instantânea",
+        "feature3": "Opções de pagamento flexíveis",
+        "apply": "Inscrever-se com Cherry"
+      },
+      "careCredit": {
+        "desc": "CareCredit é um cartão de crédito de saúde e bem-estar com opções de financiamento flexíveis para que você possa pagar ao longo do tempo.",
+        "feature1": "Aceito em mais de 260k locais",
+        "feature2": "Financiamento de curto e longo prazo",
+        "feature3": "Decisão de crédito instantânea",
+        "apply": "Inscrever-se no CareCredit"
+      },
+      "affirm": {
+        "desc": "Pague no seu próprio ritmo com Affirm. Escolha o cronograma de pagamento que melhor se adapta ao seu orçamento.",
+        "feature1": "Sem taxas ocultas",
+        "feature2": "Verificar elegibilidad não afeta o crédito",
+        "feature3": "Dividir em pagamentos mensais",
+        "button": "Saiba mais sobre Affirm"
+      },
+      "membership": {
+        "title": "Planos de Associação",
+        "subtitle": "Junte-se aos nossos programas de associação exclusivos para economia e cuidados consistentes.",
+        "botoxClub": {
+          "badge": "Mais Popular",
+          "title": "Botox Club",
+          "price": "$100",
+          "unit": "/mês",
+          "commitment": "(compromisso de 1 ano)",
+          "desc": "Cobre até 4 aplicações por ano.",
+          "button": "Junte-se ao Botox Club",
+          "includedTitle": "O que está incluído:",
+          "item1": "Unidades ilimitadas para testa, glabela, pés de galinha e músculos nasais",
+          "item2": "Reserva prioritária para todas as consultas"
+        },
+        "smilePlan": {
+          "badge": "Melhor Valor",
+          "title": "Plano Sorriso Brilhante",
+          "price": "$45",
+          "unit": "/mês",
+          "commitment": "(compromisso de 1 ano)",
+          "desc": "Atendimento odontológico abrangente por uma taxa mensal baixa.",
+          "button": "Junte-se ao Plano Sorriso",
+          "includedTitle": "O que está incluído:",
+          "guarantee": "*Não é necessário seguro",
+          "item1": "4 Limpezas Profissionais por ano",
+          "item2": "2 Conjuntos de Raios-X e Exames Ilimitados",
+          "item3": "20% de DESCONTO em todos os outros procedimentos odontológicos",
+          "bonusLabel": "Benefício Bônus",
+          "bonusDesc": "1 Clareamento Dental Profissional Gratuito por ano"
+        }
+      }
+    }
+  }
+}

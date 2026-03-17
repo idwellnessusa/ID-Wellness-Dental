@@ -1,0 +1,755 @@
+{
+  "translation": {
+    "cta": {
+      "questions": "Questions?",
+      "haveMoreQuestions": "Have more questions?",
+      "haveMoreQuestionsTreatment": "Have more questions about this treatment?",
+      "contactOurTeam": "Contact Our Team"
+    },
+    "seo": {
+      "title": "ID WELLNESS DENTAL | Advanced Dental & Facial Esthetics in Newark, NJ",
+      "description": "Discover luxury dental care and premium facial esthetics. From implants to Botox, we redefine wellness in Newark."
+    },
+    "testimonials": {
+      "title": "Real Results, Real Stories",
+      "subtitle": "Hear from our patients about their transformative experiences.",
+      "verified": "Verified Patient",
+      "reviews": {
+        "1": {
+          "text": "ID WELLNESS DENTAL transformed my smile and my confidence. The environment is so relaxing!",
+          "name": "SARAH M."
+        },
+        "2": {
+          "text": "The facial esthetics treatments are incredible. I've never felt so rejuvenated and cared for by such a professional team.",
+          "name": "MICHAEL T."
+        },
+        "3": {
+          "text": "From the moment I walked in, I knew I was in good hands. The best dental experience I've ever had.",
+          "name": "ELENA R."
+        },
+        "4": {
+          "text": "The staff is incredibly welcoming and the results of my treatment were immediate. Highly recommend!",
+          "name": "DAVID L."
+        },
+        "5": {
+          "text": "I was nervous about getting implants, but the team made the process painless and the results are stunning.",
+          "name": "JESSICA W."
+        }
+      }
+    },
+    "nav": {
+      "about": "About",
+      "services": "Services",
+      "beforeAfter": "Before & After",
+      "contact": "Contact",
+      "financing": "Financing",
+      "bookConsultation": "Book Consultation"
+    },
+    "hero": {
+      "badge": "Premium Dental Studio",
+      "title1": "Where Advanced Dentistry Meets",
+      "title2": "Esthetic Wellness.",
+      "desc": "Experience a new standard of care. ID WELLNESS DENTAL combines cutting-edge dental procedures with premium facial esthetics in a luxurious, relaxing environment.",
+      "bookBtn": "Book an Appointment",
+      "exploreBtn": "Explore Services",
+      "trustedBy": "Trusted by 1,000+ patients in the area."
+    },
+    "trust": {
+      "starTitle": "5-Star Rated",
+      "starDesc": "Consistently highly rated by our patients.",
+      "teamTitle": "Expert Medical Team",
+      "teamDesc": "Board-certified specialists.",
+      "payTitle": "Flexible Payment Plans",
+      "payDesc": "Making premium care accessible to you."
+    },
+    "goals": {
+      "title": "What is Your Goal?",
+      "desc": "Select your desired outcome to discover the perfect treatments tailored to you.",
+      "brighterSmile": "Brighter Smile",
+      "straightenTeeth": "Straighten Teeth",
+      "sharpJawline": "Sharp Jawline",
+      "healthyGums": "Healthy Gums",
+      "wrinkleFree": "Wrinkle-Free Year",
+      "wrinkleFreeDesc": "Join our ID Botox Club for $100/mo and stay smooth all year.",
+      "affordableSmile": "Affordable Luxury Smile",
+      "affordableSmileDesc": "Join the ID Bright Smile Plan for exclusive 20% savings.",
+      "idBrightSmilePlan": "ID Bright Smile Plan",
+      "idBrightSmilePlanDesc": "Join our exclusive membership plan for premium dental care, professional whitening, and significant savings without the need for traditional insurance.",
+      "bestSeller": "Best Seller",
+      "memberExclusive": "Member Exclusive",
+      "bestValue": "Best Value"
+    },
+    "services": {
+      "title": "Our Premium Services",
+      "desc": "Personalized treatments designed to enhance your natural beauty and ensure optimal oral health.",
+      "cosmeticTitle": "Cosmetic Dentistry",
+      "cosmeticDesc": "Achieve the perfect smile with our advanced cosmetic dentistry services.",
+      "cosmeticBtn": "Explore Cosmetic",
+      "generalTitle": "General Dentistry",
+      "generalDesc": "Maintain optimal oral health with our comprehensive general dentistry services.",
+      "generalBtn": "Explore General",
+      "orthoTitle": "Orthodontics",
+      "orthoDesc": "Straighten your teeth discreetly with our advanced orthodontic solutions.",
+      "orthoBtn": "Explore Orthodontics",
+      "implantsTitle": "Implants",
+      "implantsDesc": "Restore missing teeth with permanent, natural-looking dental implants.",
+      "implantsBtn": "Explore Implants",
+      "endoTitle": "Endodontics",
+      "endoDesc": "Save infected teeth and relieve pain with expert root canal therapy.",
+      "endoBtn": "Explore Endodontics",
+      "surgicalTitle": "Surgical",
+      "surgicalDesc": "Expert oral surgery procedures for complex dental needs.",
+      "surgicalBtn": "Explore Surgical",
+      "perioTitle": "Periodontics",
+      "perioDesc": "Healthy gums are the foundation of a healthy smile.",
+      "perioBtn": "Explore Periodontics",
+      "facialTitle": "Facial Esthetics",
+      "facialDesc": "Rejuvenate your appearance with our non-surgical facial treatments.",
+      "facialBtn": "Explore Facial Esthetics",
+      "viewCategory": "View Category"
+    },
+    "bot": {
+      "chatTitle": "Chat with us",
+      "sentTitle": "Message Sent!",
+      "sentDesc": "We'll get back to you shortly.",
+      "sendAnother": "Send another message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "How can we help you?",
+      "sending": "Sending...",
+      "sendBtn": "Send Message",
+      "legal": "By submitting you authorize ID WELLNESS DENTAL to send text messages with offers & other information, possibly using automated technology, to the number you provided. Message / data rates apply.",
+      "speechBubble": "Hey there! Need help? Text us!"
+    },
+    "footer": {
+      "desc": "Elevating your confidence through advanced dentistry and premium esthetic wellness.",
+      "quickLinks": "Quick Links",
+      "contact": "Contact",
+      "medicalSafety": "Medical Safety & Data Privacy:",
+      "medicalDesc": "All procedures are performed by licensed professionals under medical supervision. We maintain a 100% HIPAA-compliant digital environment. Your consultations and records are handled with the highest level of clinical discretion.",
+      "rights": "ID WELLNESS DENTAL. All rights reserved.",
+      "workingHours": "Working Hours",
+      "schedule": {
+        "mon": "Monday: 9:00 AM – 7:00 PM",
+        "thu": "Thursday: 9:00 AM – 7:00 PM",
+        "fri": "Friday: 9:00 AM – 7:00 PM",
+        "sat": "Saturday: 9:00 AM – 7:00 PM"
+      }
+    },
+    "serviceDetails": {
+      "cosmetic-dentistry": {
+        "title": "Cosmetic Dentistry",
+        "description": "Achieve the perfect smile with our advanced cosmetic dentistry services.",
+        "longDescription": "Our cosmetic dentistry team is dedicated to giving you the smile of your dreams. We use state-of-the-art technology and minimally invasive techniques to ensure your comfort and deliver exceptional, natural-looking results.",
+        "services": {
+          "porcelain-crowns": {
+            "name": "Porcelain Crowns",
+            "description": "Restore damaged teeth with custom-made porcelain crowns that look and feel natural.",
+            "painLevel": "Mild",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "porcelain-veneers": {
+            "name": "Porcelain Veneers",
+            "description": "Transform your smile with custom-made porcelain veneers that cover imperfections.",
+            "painLevel": "Minimal",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "composite-veneers": {
+            "name": "Composite Veneers",
+            "description": "Enhance your smile with composite resin veneers sculpted directly on your teeth.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "teeth-whitening": {
+            "name": "Teeth Whitening",
+            "description": "Brighten your smile several shades with our safe and effective whitening treatments.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "smile-design": {
+            "name": "Smile Design",
+            "description": "Plan your perfect smile with our digital smile design technology.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Planning Phase"
+          }
+        }
+      },
+      "general-dentistry": {
+        "title": "General Dentistry",
+        "description": "Maintain optimal oral health with our comprehensive general dentistry services.",
+        "longDescription": "Preventive care is the cornerstone of our practice. We provide thorough exams, cleanings, and treatments to keep your teeth and gums healthy for life.",
+        "services": {
+          "routine-cleanings": {
+            "name": "Routine Cleanings",
+            "description": "Keep your teeth and gums healthy with professional cleanings.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "digital-xrays": {
+            "name": "Digital X-Rays",
+            "description": "Low-radiation digital imaging for accurate diagnosis.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "fillings": {
+            "name": "Fillings",
+            "description": "Restore decayed teeth with tooth-colored composite fillings.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "night-guards": {
+            "name": "Night Guards",
+            "description": "Protect your teeth from grinding and clenching with custom night guards.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          },
+          "tooth-extractions": {
+            "name": "Tooth Extractions",
+            "description": "Safe and gentle removal of problematic teeth.",
+            "painLevel": "Mild",
+            "downtime": "1-3 Days",
+            "results": "Immediate"
+          },
+          "sealants": {
+            "name": "Sealants",
+            "description": "Protect your teeth from decay with protective coatings.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Immediate"
+          }
+        }
+      },
+      "orthodontics": {
+        "title": "Orthodontics",
+        "description": "Straighten your teeth discreetly with our advanced orthodontic solutions.",
+        "longDescription": "We offer modern orthodontic treatments to align your teeth and improve your bite. From clear aligners to preventive care, we help you achieve a straighter, healthier smile.",
+        "services": {
+          "invisalign": {
+            "name": "Invisalign® Clear Aligners",
+            "description": "Straighten your teeth discreetly with clear, removable aligners.",
+            "painLevel": "Mild",
+            "downtime": "None",
+            "results": "Progressive"
+          },
+          "porcelain-braces": {
+            "name": "Porcelain Braces",
+            "description": "Discreet, tooth-colored brackets for effective alignment.",
+            "painLevel": "Mild",
+            "downtime": "None",
+            "results": "Progressive"
+          },
+          "metal-braces": {
+            "name": "Metal Braces",
+            "description": "Traditional, durable braces for complex alignment issues.",
+            "painLevel": "Mild",
+            "downtime": "None",
+            "results": "Progressive"
+          },
+          "retainers": {
+            "name": "Retainers",
+            "description": "Maintain your new smile with custom-fit retainers.",
+            "painLevel": "None",
+            "downtime": "None",
+            "results": "Maintenance"
+          }
+        }
+      },
+      "implants": {
+        "title": "Implants",
+        "description": "Restore missing teeth with permanent, natural-looking dental implants.",
+        "longDescription": "Dental implants are the gold standard for tooth replacement. Our specialists use advanced technology to place implants that look, feel, and function like natural teeth.",
+        "services": {
+          "single-tooth": {
+            "name": "Single Tooth Implants",
+            "description": "Replace a single missing tooth with a durable implant.",
+            "painLevel": "Moderate",
+            "downtime": "1-2 Days",
+            "results": "Permanent"
+          },
+          "all-on-4": {
+            "name": "All-on-4 Fixed Bridges",
+            "description": "Replace a full arch of teeth with just four implants.",
+            "painLevel": "Moderate",
+            "downtime": "3-5 Days",
+            "results": "Permanent"
+          }
+        }
+      },
+      "endodontics": {
+        "title": "Endodontics",
+        "description": "Save infected teeth and relieve pain with expert root canal therapy.",
+        "longDescription": "Our endodontic treatments are designed to save your natural teeth and eliminate pain caused by infection or injury.",
+        "services": {
+          "root-canal": {
+            "name": "Root Canal Therapy",
+            "description": "Remove infection and save the natural tooth.",
+            "painLevel": "Mild",
+            "downtime": "1 Day",
+            "results": "Immediate Relief"
+          },
+          "pulpoctomy": {
+            "name": "Pulpoctomy",
+            "description": "Removal of infected pulp tissue to save the tooth.",
+            "painLevel": "Mild",
+            "downtime": "1 Day",
+            "results": "Immediate Relief"
+          },
+          "endodontic-retreatment": {
+            "name": "Endodontic Retreatment",
+            "description": "Specialized care for previously treated teeth that have not healed.",
+            "painLevel": "Mild",
+            "downtime": "1-2 Days",
+            "results": "Healing"
+          }
+        }
+      },
+      "surgical": {
+        "title": "Surgical",
+        "description": "Expert oral surgery procedures for complex dental needs.",
+        "longDescription": "Our oral surgery team handles complex extractions and other surgical procedures with precision and care, ensuring your comfort and safety.",
+        "services": {
+          "wisdom-teeth": {
+            "name": "Wisdom Teeth Removal",
+            "description": "Safe extraction of impacted or problematic wisdom teeth.",
+            "painLevel": "Moderate",
+            "downtime": "3-5 Days",
+            "results": "Permanent"
+          },
+          "sinus-lifts": {
+            "name": "Sinus Lifts",
+            "description": "Add bone to the upper jaw to prepare for implants.",
+            "painLevel": "Moderate",
+            "downtime": "3-5 Days",
+            "results": "Healing Required"
+          },
+          "bone-grafting": {
+            "name": "Bone Grafting",
+            "description": "Build up bone density to support dental implants.",
+            "painLevel": "Mild",
+            "downtime": "2-3 Days",
+            "results": "Healing Required"
+          },
+          "oral-biopsies": {
+            "name": "Oral Biopsies",
+            "description": "Diagnostic procedure for oral tissue abnormalities.",
+            "painLevel": "Mild",
+            "downtime": "1-2 Days",
+            "results": "Diagnostic"
+          }
+        }
+      },
+      "periodontics": {
+        "title": "Periodontics",
+        "description": "Healthy gums are the foundation of a healthy smile.",
+        "longDescription": "We specialize in the prevention, diagnosis, and treatment of periodontal disease, helping you maintain healthy gums and bone.",
+        "services": {
+          "scaling-root-planing": {
+            "name": "Deep Scaling & Root Planing",
+            "description": "Deep cleaning to treat gum disease and remove plaque.",
+            "painLevel": "Mild",
+            "downtime": "1 Day",
+            "results": "Progressive"
+          },
+          "gum-grafting": {
+            "name": "Gum Grafting",
+            "description": "Restore receding gums and protect tooth roots.",
+            "painLevel": "Moderate",
+            "downtime": "3-5 Days",
+            "results": "Permanent"
+          },
+          "laser-gum": {
+            "name": "Laser Gum Treatment",
+            "description": "Minimally invasive treatment for gum disease.",
+            "painLevel": "Minimal",
+            "downtime": "None",
+            "results": "Immediate"
+          }
+        }
+      },
+      "facial-esthetics": {
+        "title": "Facial Esthetics",
+        "description": "Rejuvenate your appearance with our non-surgical facial treatments.",
+        "longDescription": "Enhance your natural beauty with our range of facial esthetics treatments. Our experts use safe, effective procedures to smooth wrinkles and restore volume.",
+        "services": {
+          "botox": {
+            "name": "Botox® & Neuromodulators",
+            "description": "Smooth fine lines and wrinkles for a refreshed look.",
+            "painLevel": "Minimal",
+            "downtime": "None",
+            "results": "3-5 Days"
+          },
+          "dermal-fillers": {
+            "name": "Dermal Fillers",
+            "description": "Restore volume and enhance facial contours.",
+            "painLevel": "Mild",
+            "downtime": "1-2 Days",
+            "results": "Immediate"
+          },
+          "collagen-stimulators": {
+            "name": "Collagen Stimulators",
+            "description": "Stimulate natural collagen production for long-lasting volume.",
+            "painLevel": "Mild",
+            "downtime": "1-2 Days",
+            "results": "Progressive"
+          }
+        }
+      }
+    },
+    "servicePage": {
+      "notFound": "Service Not Found",
+      "backToHome": "Back to Home",
+      "backToServices": "Back to Services",
+      "featuredTreatment": "Featured Treatment",
+      "ultimateGlowTitle": "The ID Ultimate Smile",
+      "ultimateGlowDesc": "Our signature smile makeover. We combine porcelain veneers, professional whitening, and gum contouring to create your perfect smile. Perfect for weddings, events, or a total transformation.",
+      "perSession": "Per Case",
+      "painLevel": "Pain Level",
+      "downtime": "Downtime",
+      "results": "Results",
+      "zeroRelaxing": "Minimal",
+      "noneInstantGlow": "None",
+      "visibleWithin24": "Immediate",
+      "overview": "Overview",
+      "whatWeOffer": "What We Offer",
+      "discreetConsultations": "Discreet, Private Consultations Guaranteed.",
+      "readyToTransform": "Ready to transform?",
+      "scheduleConsultation": "Schedule a consultation with our specialists to discuss your goals and create a personalized treatment plan.",
+      "bookConsultation": "Book Consultation"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find answers to common questions about our treatments, financing options, and what to expect during your visit.",
+      "stillHaveQuestions": "Still have questions?",
+      "contactUs": "Can't find the answer you're looking for? Our friendly team is here to help you with any additional information you need.",
+      "contactBtn": "Contact Us",
+      "categories": {
+        "cosmetic": "Cosmetic Dentistry",
+        "general": "General Dentistry",
+        "ortho": "Orthodontics",
+        "implants": "Dental Implants",
+        "endo": "Endodontics",
+        "surgical": "Surgical & Periodontics",
+        "facial": "Facial Esthetics",
+        "financing": "Financing & Membership"
+      },
+      "q": {
+        "cosmetic1": {
+          "q": "How long do porcelain veneers last?",
+          "a": "With proper care and regular check-ups, porcelain veneers typically last 10-15 years or longer. We use high-quality materials that resist staining and chipping."
+        },
+        "cosmetic2": {
+          "q": "Will I experience sensitivity after teeth whitening?",
+          "a": "Some patients experience temporary sensitivity, but our professional whitening systems include desensitizing agents to minimize discomfort. Any sensitivity usually subsides within 24-48 hours."
+        },
+        "cosmetic3": {
+          "q": "What is the Smile Design process?",
+          "a": "Smile Design is a comprehensive planning process where we use digital technology to analyze your facial features and design a smile that perfectly complements your unique look before any treatment begins."
+        },
+        "general1": {
+          "q": "How often should I have a dental cleaning?",
+          "a": "We recommend professional cleanings every 6 months for most patients. However, if you have a history of gum disease or other oral health concerns, we may suggest more frequent visits."
+        },
+        "general2": {
+          "q": "Why are dental sealants important?",
+          "a": "Sealants provide a protective barrier against decay-causing bacteria, particularly on the chewing surfaces of back teeth. They are a highly effective preventive measure for both children and adults."
+        },
+        "general3": {
+          "q": "Are digital X-rays safe?",
+          "a": "Yes, digital X-rays are extremely safe and emit up to 90% less radiation than traditional film X-rays. They also provide instant, high-definition images for more accurate diagnoses."
+        },
+        "ortho1": {
+          "q": "Should I choose Invisalign or traditional braces?",
+          "a": "Invisalign is ideal for discreetly correcting mild to moderate alignment issues, while traditional braces may be better for complex cases. We will recommend the best option for your specific needs during your consultation."
+        },
+        "ortho2": {
+          "q": "How long does orthodontic treatment take?",
+          "a": "Treatment time varies depending on the complexity of your case, but most patients complete their treatment within 12 to 24 months. We can provide a more accurate timeline after your exam."
+        },
+        "ortho3": {
+          "q": "Do I need to wear a retainer after treatment?",
+          "a": "Yes, wearing a retainer is essential to prevent your teeth from shifting back into their original positions. We offer both removable and fixed retainer options to maintain your new smile."
+        },
+        "implants1": {
+          "q": "What is the success rate of dental implants?",
+          "a": "Dental implants have a success rate of over 95%. With proper placement and care, they are a permanent solution for missing teeth that look, feel, and function like natural teeth."
+        },
+        "implants2": {
+          "q": "What is the recovery process like for dental implants?",
+          "a": "Most patients experience mild discomfort for a few days, which can be managed with over-the-counter pain relievers. You can typically return to work and normal activities within 1-2 days."
+        },
+        "implants3": {
+          "q": "Why are implants better than bridges?",
+          "a": "Unlike bridges, implants do not require altering adjacent healthy teeth. They also stimulate the jawbone to prevent bone loss, which helps maintain your facial structure and oral health."
+        },
+        "endo1": {
+          "q": "Are root canals painful?",
+          "a": "Modern root canal therapy is virtually painless thanks to advanced anesthetics and techniques. The procedure is designed to relieve the pain caused by infection, not cause it."
+        },
+        "endo2": {
+          "q": "What are the signs of a pulp infection?",
+          "a": "Common signs include severe toothache, prolonged sensitivity to heat or cold, discoloration of the tooth, and swelling or tenderness in the nearby gums."
+        },
+        "endo3": {
+          "q": "Why should I save my natural tooth?",
+          "a": "Saving your natural tooth with a root canal is always the best option when possible. It maintains your natural bite, efficient chewing, and normal sensation, which no replacement can fully replicate."
+        },
+        "surgical1": {
+          "q": "How long is the recovery after wisdom tooth removal?",
+          "a": "Initial healing typically takes 3-5 days. You may experience some swelling and discomfort, but following our post-operative instructions will help ensure a smooth and speedy recovery."
+        },
+        "surgical2": {
+          "q": "When is bone grafting necessary?",
+          "a": "Bone grafting is often required when there isn't enough healthy jawbone to support a dental implant. It builds up the bone to ensure a stable and long-lasting foundation for your implant."
+        },
+        "surgical3": {
+          "q": "How do you treat gum disease?",
+          "a": "We offer a range of treatments from scaling and root planing (deep cleaning) to advanced laser therapy and gum grafting, depending on the severity of the disease."
+        },
+        "facial1": {
+          "q": "How does Botox complement my smile?",
+          "a": "Botox can enhance your smile by smoothing lip lines, correcting a \"gummy smile,\" and relaxing facial muscles to frame your new smile with a more youthful and refreshed appearance."
+        },
+        "facial2": {
+          "q": "Will my dermal filler results look natural?",
+          "a": "Absolutely. Our expert injectors use a \"less is more\" approach to restore volume and enhance contours subtly, ensuring you look like a refreshed version of yourself, never overdone."
+        },
+        "facial3": {
+          "q": "How long do facial esthetic treatments last?",
+          "a": "Botox results typically last 3-4 months, while dermal fillers can last anywhere from 6 to 18 months, depending on the product used and the area treated."
+        },
+        "financing1": {
+          "q": "What are the benefits of the ID Bright Smile Plan?",
+          "a": "Our membership plan includes two professional cleanings, unlimited digital X-rays and exams, and 20% off all other dental treatments for a low annual fee, with no insurance hassles."
+        },
+        "financing2": {
+          "q": "Is the membership plan better than insurance?",
+          "a": "For many patients, yes. It eliminates deductibles, waiting periods, annual maximums, and claim denials, providing transparent and affordable access to premium dental care."
+        },
+        "financing3": {
+          "q": "What flexible payment options do you offer?",
+          "a": "We accept all major credit cards and offer flexible financing through Cherry and CareCredit, including 0% APR options for qualified patients, to make your treatment affordable."
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We're here to answer your questions and help you schedule your next visit.",
+      "form": {
+        "title": "Get in Touch",
+        "success": {
+          "title": "Message Sent!",
+          "desc": "Thank you for reaching out. We'll get back to you shortly.",
+          "btn": "Send another message"
+        },
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "message": "Message",
+        "messagePlaceholder": "How can we help you?",
+        "sending": "Sending...",
+        "submit": "Send Message",
+        "error": {
+          "generic": "Something went wrong. Please try again.",
+          "failed": "Failed to send message. Please try again later."
+        }
+      },
+      "info": {
+        "visit": "Visit Us",
+        "call": "Call Us",
+        "hours": "Mon, Thu, Fri, Sat: 9:00 AM – 7:00 PM",
+        "email": "Email Us",
+        "reply": "We reply within 24 hours"
+      }
+    },
+    "beforeAfter": {
+      "title": "Real Patient Results",
+      "subtitle": "See the transformative power of our treatments.",
+      "before": "Before",
+      "after": "After",
+      "viewCases": "View Cases",
+      "bookConsultation": "Book Your {{treatment}} Consultation",
+      "cases": {
+        "smile": {
+          "title": "Smile Makeover",
+          "desc": "Full mouth reconstruction with porcelain veneers.",
+          "description": "See how our comprehensive smile makeovers have transformed our patients' confidence. These cases highlight the power of combining veneers, crowns, and professional whitening to achieve a flawless, natural-looking smile.",
+          "cases": {
+            "1": "Full porcelain veneers to correct alignment and shade.",
+            "2": "Complete smile reconstruction with custom crowns.",
+            "3": "Veneers and professional whitening for a brighter smile.",
+            "4": "Closing gaps and correcting chips with porcelain veneers.",
+            "5": "Full arch restoration for a harmonious appearance.",
+            "6": "Correcting discoloration and minor misalignment.",
+            "7": "Premium veneers for a natural, youthful look.",
+            "8": "Total transformation of bite and aesthetic appeal."
+          }
+        },
+        "facial": {
+          "title": "Facial Rejuvenation",
+          "desc": "Non-surgical facelift using dermal fillers.",
+          "description": "Explore the subtle yet profound results of our non-surgical facial rejuvenation treatments. From Botox to dermal fillers, see how we restore volume, smooth wrinkles, and enhance natural beauty.",
+          "cases": {
+            "1": "Dermal fillers to restore mid-face volume.",
+            "2": "Botox treatment for smoothing forehead lines.",
+            "3": "Jawline contouring for a sharper profile.",
+            "4": "Lip enhancement for natural-looking fullness.",
+            "5": "Under-eye rejuvenation to reduce dark circles.",
+            "6": "Full face liquid lift for a refreshed look.",
+            "7": "Nasolabial fold correction with fillers.",
+            "8": "Cheek augmentation for enhanced definition."
+          }
+        },
+        "invisalign": {
+          "title": "Invisalign Treatment",
+          "desc": "12-month alignment correction.",
+          "description": "Witness the journey to a perfectly straight smile with Invisalign. These before and after photos showcase the effectiveness of clear aligners in correcting crowding, spacing, and bite issues discreetly.",
+          "cases": {
+            "1": "Correcting severe crowding in 12 months.",
+            "2": "Closing a significant gap between front teeth.",
+            "3": "Fixing an overbite with clear aligners.",
+            "4": "Aligning lower teeth for better functionality.",
+            "5": "Discreet correction of minor misalignment.",
+            "6": "Broadening the smile arch with Invisalign.",
+            "7": "Resolving crossbite issues effectively.",
+            "8": "Achieving perfect symmetry in 10 months."
+          }
+        }
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "Discover the story behind ID WELLNESS DENTAL and our commitment to your health and beauty.",
+      "story": {
+        "title": "Our Evolution",
+        "p1": "At ID Wellness, our journey has always been guided by one simple mission: to care for our community by providing high-quality, personalized healthcare services.",
+        "p2": "What began as a wellness and aesthetic center gradually evolved as we listened closely to the needs of our patients. Over the past two years, dental care became one of the most requested and valued services in our practice. Through this experience, we realized that our community needed a trusted place focused on delivering exceptional dental care in a modern, comfortable environment.",
+        "p3": "Today, ID Wellness has proudly evolved into a dedicated dental clinic, allowing us to focus entirely on what matters most, your smile, your oral health, and your long-term wellbeing.",
+        "p4": "Our team is committed to combining advanced dental technology, personalized treatment plans, and a patient-centered approach to ensure every visit is comfortable, transparent, and results-driven. From preventive care to restorative and cosmetic dentistry, we strive to deliver treatments that improve both function and confidence.",
+        "p5": "This transformation represents our commitment to growth, innovation, and most importantly, serving our community in the best way possible.",
+        "p6": "At ID Wellness Dental Clinic, your smile is our priority."
+      },
+      "stats": {
+        "experience": "Years Experience",
+        "patients": "Happy Patients"
+      },
+      "team": {
+        "title": "Meet Our Team",
+        "subtitle": "Our board-certified specialists and dedicated professionals are here to provide the highest standard of care.",
+        "mohammed": {
+          "name": "Dr. Liya Mohammed, DDS",
+          "title": "Board Member",
+          "shortBio": "Dr. Liya Mohammed is a highly skilled dentist graduated from NYU, dedicated to delivering exceptional, patient-centered care. With extensive experience in advanced procedures like implants and cosmetic dentistry, she focuses on long-term oral health and beautiful results.",
+          "fullBio": {
+            "p1": "Dr. Liya Mohammed is a highly skilled and compassionate dentist dedicated to delivering exceptional dental care with a patient-centered approach. She graduated from the New York University College of Dentistry (NYU) in 2014 and has been practicing dentistry continuously since then, gaining extensive experience across a wide range of dental procedures.",
+            "p2": "Dr. Mohammed provides comprehensive dental care, from routine examinations and preventive treatments to advanced procedures such as dental implants, root canal therapy (RCT), periodontal treatments, restorative dentistry, cosmetic dentistry, surgical procedures, and bone grafting. Her clinical experience allows her to create precise and personalized treatment plans tailored to each patient's needs.",
+            "p3": "Her primary languages are English and Amharic, allowing her to communicate comfortably with a broad range of patients. She also has working knowledge of Portuguese and Spanish, helping her connect with even more members of the diverse community she serves.",
+            "p4": "Dr. Mohammed shares the philosophy of care at ID Wellness Dental Clinic, where every patient is treated with respect, attention, and dedication. Her priority is always to provide the best possible treatment approach, focusing on long-term oral health, comfort, and beautiful results.",
+            "p5": "She believes dentistry is not only about treating teeth, but about improving confidence, health, and overall quality of life. Dr. Mohammed is proud to serve the Newark community and is committed to helping patients achieve healthy, confident smiles."
+          }
+        },
+        "paneca": {
+          "name": "Dr. Liany Rodriguez Paneca, DMD",
+          "title": "Associate Dentist",
+          "shortBio": "Dr. Liany Rodriguez Paneca brings a modern, patient-focused approach to dentistry, combining advanced clinical training with a strong commitment to excellence in care.",
+          "fullBio": {
+            "p1": "Dr. Liany Rodriguez Paneca brings a modern, patient-focused approach to dentistry, combining advanced clinical training with a strong commitment to excellence in care.",
+            "p2": "She completed her dental education at the prestigious University of Pennsylvania – Penn Dental Medicine, where she refined her skills in comprehensive and restorative dentistry.",
+            "p3": "With experience practicing in New Jersey, Dr. Paneca is skilled in delivering a wide range of treatments, including preventive care, restorative procedures, extractions, and endodontic treatments.",
+            "p4": "Her philosophy centers on providing a comfortable, personalized experience while ensuring the highest standards of precision and care. She is dedicated to helping patients feel confident in their smiles and their overall oral health."
+          }
+        },
+        "santos": {
+          "title": "Office Manager",
+          "shortBio": "Clara Santos is the Office Manager at ID Wellness Dental Clinic, ensuring every patient receives a smooth, welcoming, and well-organized experience. With extensive experience in dental management, she expertly guides patients through appointments, insurance, and treatment scheduling.",
+          "fullBio": {
+            "p1": "Clara Santos is the Office Manager at ID Wellness Dental Clinic, where she plays a key role in ensuring that every patient receives a smooth, welcoming, and well-organized experience from the moment they contact the office.",
+            "p2": "With extensive experience in dental office management, Clara is known for her excellent communication skills and her ability to guide patients through every step of their visit. She assists with appointment coordination, insurance questions, treatment scheduling, and patient support, helping make each visit as comfortable and stress-free as possible.",
+            "p3": "Clara is passionate about building strong relationships with patients and making sure they feel heard, respected, and well cared for. Her friendly approach and attention to detail help create the warm and professional environment that defines ID Wellness Dental Clinic.",
+            "p4": "Working closely with the clinical team, Clara helps ensure that the office operates efficiently while maintaining the high standards of care that patients expect."
+          }
+        },
+        "labels": {
+          "education": "Education",
+          "languages": "Languages",
+          "experience": "Experience",
+          "philosophy": "Philosophy of Care",
+          "backToTeam": "Back to Team"
+        }
+      }
+    },
+    "financing": {
+      "title": "Flexible Payment Plans",
+      "subtitle": "We believe everyone deserves access to quality care. Choose the payment option that works best for you.",
+      "cherry_title": "Cherry",
+      "carecredit_title": "CareCredit",
+      "tox_club_title": "Botox Club",
+      "tox_club_price": "$100/month",
+      "tox_club_desc": "Bank your money for future treatments!",
+      "cherry": {
+        "desc": "Get treated now and pay over time with Cherry. Apply in seconds and choose from flexible payment plans.",
+        "feature1": "No hard credit check",
+        "feature2": "Instant decision",
+        "feature3": "Flexible payment options",
+        "apply": "Apply with Cherry"
+      },
+      "careCredit": {
+        "desc": "CareCredit is a health and wellness credit card with flexible financing options so you can pay over time.",
+        "feature1": "Accepted at 260k+ locations",
+        "feature2": "Short & long term financing",
+        "feature3": "Instant credit decision",
+        "apply": "Apply for CareCredit"
+      },
+      "affirm": {
+        "desc": "Pay at your own pace with Affirm. Choose the payment schedule that works best for your budget.",
+        "feature1": "No hidden fees",
+        "feature2": "Checking eligibility won't affect credit",
+        "feature3": "Split into monthly payments",
+        "button": "Learn about Affirm"
+      },
+      "membership": {
+        "title": "Membership Plans",
+        "subtitle": "Join our exclusive membership programs for savings and consistent care.",
+        "botoxClub": {
+          "badge": "Most Popular",
+          "title": "Botox Club",
+          "price": "$100",
+          "unit": "/month",
+          "commitment": "(1 year commitment)",
+          "desc": "Covers up to 4 applications per year.",
+          "button": "Join Botox Club",
+          "includedTitle": "What's Included:",
+          "item1": "Unlimited units for Forehead, Glabellar, Crow’s Feet, and Nasalis muscles",
+          "item2": "Priority booking for all appointments"
+        },
+        "smilePlan": {
+          "badge": "Best Value",
+          "title": "Bright Smile Plan",
+          "price": "$45",
+          "unit": "/month",
+          "commitment": "(1 year commitment)",
+          "desc": "Comprehensive dental care for one low monthly fee.",
+          "button": "Join Smile Plan",
+          "includedTitle": "What's Included:",
+          "guarantee": "*No Insurance Needed",
+          "item1": "4 Professional Dental Cleanings per year",
+          "item2": "2 Sets of X-rays & Unlimited Exams",
+          "item3": "20% OFF all other dental procedures",
+          "bonusLabel": "Bonus Benefit",
+          "bonusDesc": "1 Free Professional Teeth Whitening per year"
+        }
+      }
+    }
+  }
+}
