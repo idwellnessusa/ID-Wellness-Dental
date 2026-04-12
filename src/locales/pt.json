@@ -7,8 +7,8 @@
       "contactOurTeam": "Contate Nossa Equipe"
     },
     "seo": {
-      "title": "ID WELLNESS DENTAL | Odontologia Avançada e Estética Facial em Newark, NJ",
-      "description": "Experimente cuidados dentários de luxo e estética facial premium. De implantes a Botox, redefinimos o bem-estar em Newark."
+      "title": "ID WELLNESS DENTAL | Odontologia Cosmética e Estética em Newark, NJ",
+      "description": "Experimente cuidados dentários de luxo e estética facial premium em Newark, NJ. De implantes dentários a relaxantes de rugas, redefinimos o bem-estar em Ironbound e nas comunidades vizinhas de Nova Jersey."
     },
     "testimonials": {
       "title": "Resultados Reais, Histórias Reais",
@@ -42,17 +42,18 @@
       "services": "Serviços",
       "beforeAfter": "Antes e Depois",
       "contact": "Contato",
+      "blog": "Blog",
       "financing": "Financiamento",
       "bookConsultation": "Agendar Consulta"
     },
     "hero": {
-      "badge": "Estúdio Odontológico Premium",
+      "badge": "Estúdio Odontológico Premium em Newark, NJ",
       "title1": "Onde a Odontologia Avançada Encontra o",
       "title2": "Bem-Estar Estético.",
-      "desc": "Experimente um novo padrão de atendimento. O ID WELLNESS DENTAL combina procedimentos odontológicos de ponta com estética facial premium em um ambiente luxuoso e relaxante.",
+      "desc": "Experimente um novo padrão de atendimento no estúdio odontológico premier de Nova Jersey. O ID WELLNESS DENTAL combina procedimentos odontológicos de ponta com estética facial premium em um ambiente luxuoso e relaxante.",
       "bookBtn": "Agendar uma Consulta",
       "exploreBtn": "Explorar Serviços",
-      "trustedBy": "Confiável por mais de 1.000 pacientes na área."
+      "trustedBy": "Confiável por mais de 1.000 pacientes na área de Newark."
     },
     "trust": {
       "starTitle": "Avaliação de 5 Estrelas",
@@ -66,11 +67,16 @@
       "title": "Qual é o seu Objetivo?",
       "desc": "Selecione o resultado desejado para descobrir os tratamentos perfeitos adaptados a você.",
       "brighterSmile": "Sorriso Mais Brilhante",
+      "porcelainVeneers": "Facetas de Porcelana",
+      "restoreMissingTeeth": "Restaurar Dentes Ausentes",
+      "relieveToothPain": "Aliviar Dor de Dente",
+      "fixChippedTeeth": "Consertar Dentes Lascados",
+      "totalSmileMakeover": "Transformação Total do Sorriso",
       "straightenTeeth": "Alinhar Dentes",
       "sharpJawline": "Mandíbula Definida",
       "healthyGums": "Gengivas Saudáveis",
       "wrinkleFree": "Ano Sem Rugas",
-      "wrinkleFreeDesc": "Junte-se ao nosso ID Botox Club por $100/mês e mantenha-se suave o ano todo.",
+      "wrinkleFreeDesc": "Junte-se ao nosso ID Club Sem Rugas por $100/mês e mantenha-se suave o ano todo.",
       "affordableSmile": "Sorriso de Luxo Acessível",
       "affordableSmileDesc": "Junte-se ao Plano ID Bright Smile para economias exclusivas de 20%.",
       "idBrightSmilePlan": "Plano ID Bright Smile",
@@ -83,7 +89,7 @@
       "title": "Nossos Serviços Premium",
       "desc": "Tratamentos personalizados projetados para realçar sua beleza natural e garantir uma saúde bucal ideal.",
       "cosmeticTitle": "Odontologia Cosmética",
-      "cosmeticDesc": "Alcance o sorriso perfeito com nossos serviços avançados de odontologia estética.",
+      "cosmeticDesc": "Alcance o sorriso perfeito com nossos serviços avançados de odontologia estética em Newark, NJ.",
       "cosmeticBtn": "Explorar Cosmética",
       "generalTitle": "Odontologia Geral",
       "generalDesc": "Mantenha uma saúde bucal ideal com nossos serviços odontológicos gerais abrangentes.",
@@ -92,7 +98,7 @@
       "orthoDesc": "Endireite seus dentes discretamente com nossas soluções ortodônticas avançadas.",
       "orthoBtn": "Explorar Ortodontia",
       "implantsTitle": "Implantes",
-      "implantsDesc": "Restaure dentes ausentes com implantes dentários permanentes e de aparência natural.",
+      "implantsDesc": "Restaure dentes ausentes com implantes dentários permanentes e de aparência natural no coração de Newark.",
       "implantsBtn": "Explorar Implantes",
       "endoTitle": "Endodontia",
       "endoDesc": "Salve dentes infectados e alivie a dor com terapia de canal especializada.",
@@ -124,7 +130,7 @@
       "speechBubble": "Olá! Precisa de ajuda? Envie-nos uma mensagem!"
     },
     "footer": {
-      "desc": "Elevando sua confiança através da odontologia avançada e bem-estar estético premium.",
+      "desc": "Elevando sua confiança através da odontologia avançada e bem-estar estético premium. Orgulhosamente servindo Newark e as comunidades vizinhas de Nova Jersey.",
       "quickLinks": "Links Rápidos",
       "contact": "Contato",
       "medicalSafety": "Segurança Médica e Privacidade de Dados:",
@@ -389,8 +395,8 @@
         "description": "Rejuvenesça sua aparência com nossos tratamentos faciais não cirúrgicos.",
         "longDescription": "Complemente seu sorriso com nossos tratamentos de estética facial. Realçamos sua beleza natural suavizando linhas e restaurando volume.",
         "services": {
-          "botox": {
-            "name": "Botox e Neuromoduladores",
+          "wrinkleRelaxers": {
+            "name": "Relaxantes de Rugas e Neuromoduladores",
             "description": "Suavize linhas finas e previna rugas para uma aparência rejuvenescida.",
             "painLevel": "Mínimo",
             "downtime": "Nenhum",
@@ -524,8 +530,8 @@
           "a": "Oferecemos desde raspagem e alisamento radicular (limpeza profunda) até terapia a laser avançada e enxertos gengivais, dependendo da gravidade."
         },
         "facial1": {
-          "q": "Como o Botox complementa meu sorriso?",
-          "a": "Pode suavizar linhas dos lábios, corrigir \"sorriso gengival\" e relaxar músculos faciais para emoldurar seu sorriso com uma aparência mais jovem."
+          "q": "Como os relaxantes de rugas complementam meu sorriso?",
+          "a": "Podem suavizar linhas dos lábios, corrigir \"sorriso gengival\" e relaxar músculos faciais para emoldurar seu sorriso com uma aparência mais jovem."
         },
         "facial2": {
           "q": "Meus preenchimentos dérmicos parecerão naturais?",
@@ -533,7 +539,7 @@
         },
         "facial3": {
           "q": "Quanto duram os tratamentos estéticos?",
-          "a": "O Botox dura tipicamente 3-4 meses, enquanto preenchimentos podem durar de 6 a 18 meses, dependendo do produto e área tratada."
+          "a": "Os relaxantes de rugas duram tipicamente 3-4 meses, enquanto preenchimentos podem durar de 6 a 18 meses, dependendo do produto e área tratada."
         },
         "financing1": {
           "q": "Quais os benefícios do Plano ID Bright Smile?",
@@ -606,10 +612,10 @@
         "facial": {
           "title": "Rejuvenescimento Facial",
           "desc": "Lifting facial não cirúrgico com preenchimentos dérmicos.",
-          "description": "Explore os resultados sutis, porém profundos, de nossos tratamentos de rejuvenescimento facial não cirúrgicos. Do Botox aos preenchimentos dérmicos, veja como restauramos o volume, suavizamos as rugas e realçamos a beleza natural.",
+          "description": "Explore os resultados sutis, porém profundos, de nossos tratamentos de rejuvenescimento facial não cirúrgicos. Dos relaxantes de rugas aos preenchimentos dérmicos, veja como restauramos o volume, suavizamos as rugas e realçamos a beleza natural.",
           "cases": {
             "1": "Preenchimentos dérmicos para restaurar o volume do terço médio da face.",
-            "2": "Tratamento com Botox para suavizar as linhas da testa.",
+            "2": "Tratamento com relaxantes de rugas para suavizar as linhas da testa.",
             "3": "Contorno da mandíbula para um perfil mais definido.",
             "4": "Preenchimento labial para uma plenitude de aparência natural.",
             "5": "Rejuvenescimento das pálpebras inferiores para reduzir olheiras.",
@@ -696,12 +702,38 @@
         }
       }
     },
+    "blog": {
+      "title": "O Diário de",
+      "titleHighlight": "Bem-Estar",
+      "subtitle": "Informações sobre odontologia avançada, estética facial e como manter o seu sorriso ideal.",
+      "minRead": "min de leitura",
+      "readArticle": "Ler Artigo",
+      "relatedArticles": "Artigos Relacionados",
+      "bookConsultation": "Agendar Consulta",
+      "articleNotFound": "Artigo Não Encontrado",
+      "returnToJournal": "Voltar ao Diário",
+      "backToJournal": "Voltar ao Diário",
+      "continueReading": "Continue Lendo",
+      "viewAllArticles": "Ver Todos os Artigos",
+      "newsletterTitle": "Junte-se ao Clube ID Wellness",
+      "newsletterDesc": "Assine nossa newsletter exclusiva para obter as informações mais recentes sobre odontologia avançada, estética facial e ofertas VIP.",
+      "newsletterPlaceholder": "Digite seu e-mail",
+      "newsletterSubscribe": "Inscrever-se",
+      "serviceSpotlight": "Serviço em Destaque",
+      "exploreService": "Explorar Serviço",
+      "spotlightCosmeticTitle": "Odontologia Cosmética Premium",
+      "spotlightCosmeticDesc": "Pronto para transformar seu sorriso? Descubra nossas facetas de porcelana personalizadas e serviços de transformação do sorriso.",
+      "spotlightImplantsTitle": "Implantes Dentários Avançados",
+      "spotlightImplantsDesc": "Restaure sua confiança com nossas soluções de implantes dentários permanentes e de aparência natural.",
+      "spotlightFacialTitle": "Estética Facial",
+      "spotlightFacialDesc": "Complemente seu sorriso com nossos tratamentos premium de rejuvenescimento facial."
+    },
     "financing": {
       "title": "Planos de Pagamento Flexíveis",
       "subtitle": "Acreditamos que todos merecem acesso a cuidados de qualidade. Escolha a opção de pagamento que melhor funciona para você.",
       "cherry_title": "Cherry",
       "carecredit_title": "CareCredit",
-      "tox_club_title": "Botox Club",
+      "tox_club_title": "Club Sem Rugas",
       "tox_club_price": "$100/mês",
       "tox_club_desc": "Acumule seu dinheiro para tratamentos futuros!",
       "cherry": {
@@ -728,14 +760,14 @@
       "membership": {
         "title": "Planos de Associação",
         "subtitle": "Junte-se aos nossos programas de associação exclusivos para economia e cuidados consistentes.",
-        "botoxClub": {
+        "wrinkleFreeClub": {
           "badge": "Mais Popular",
-          "title": "Botox Club",
+          "title": "Club Sem Rugas",
           "price": "$100",
           "unit": "/mês",
           "commitment": "(compromisso de 1 ano)",
           "desc": "Cobre até 4 aplicações por ano.",
-          "button": "Junte-se ao Botox Club",
+          "button": "Junte-se ao Club Sem Rugas",
           "includedTitle": "O que está incluído:",
           "item1": "Unidades ilimitadas para testa, glabela, pés de galinha e músculos nasais",
           "item2": "Reserva prioritária para todas as consultas"

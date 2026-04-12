@@ -19,12 +19,26 @@ export default function LanguageModal({ onComplete }: LanguageModalProps) {
     }
   }, []);
 
-  const handleLanguageSelect = (lang: string) => {
-    localStorage.setItem('i18nextLng', lang);
-    localStorage.setItem('languageSelected', 'true');
-    i18n.changeLanguage(lang).then(() => {
+  const handleLanguageSelect = async (lang: string) => {
+    try {
+      // Set the flag immediately to prevent the modal from showing again on refresh
+      localStorage.setItem('languageSelected', 'true');
+      
+      // Update local state immediately to start the exit animation
       setIsVisible(false);
-    });
+      
+      // Change the language - this is async but we don't want to block the UI transition
+      await i18n.changeLanguage(lang);
+      
+      // For extra safety, call onComplete if it's not already handled by AnimatePresence
+      // setIsLanguageSelected(true) is idempotent so calling it twice is fine
+      onComplete();
+    } catch (error) {
+      console.error('Failed to change language:', error);
+      // Ensure the modal is dismissed even if language change fails
+      setIsVisible(false);
+      onComplete();
+    }
   };
 
   return (

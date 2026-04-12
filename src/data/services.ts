@@ -105,7 +105,7 @@ export const getServicesList = (t: TFunction) => [
     longDescription: t('serviceDetails.facial-esthetics.longDescription'),
     image: 'https://i.postimg.cc/X7cZzPYX/Chat-GPT-Image-Mar-2-2026-01-03-09-PM.png',
     services: [
-      { id: 'botox', key: 'botox', image: 'https://i.postimg.cc/X7cZzPYX/Chat-GPT-Image-Mar-2-2026-01-03-09-PM.png' },
+      { id: 'wrinkle-relaxers', key: 'wrinkleRelaxers', image: 'https://i.postimg.cc/X7cZzPYX/Chat-GPT-Image-Mar-2-2026-01-03-09-PM.png' },
       { id: 'dermal-fillers', key: 'dermal-fillers', image: 'https://i.postimg.cc/pdypyXYT/Chat-GPT-Image-Mar-2-2026-01-03-15-PM.png' },
       { id: 'collagen-stimulators', key: 'collagen-stimulators', image: 'https://i.postimg.cc/G3B3D5yf/FEDEF8FC-4320-453C-8F9D-40DA3F56DA25.png' }
     ],

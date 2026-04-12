@@ -10,7 +10,8 @@ import About from './pages/About';
 import DoctorProfile from './pages/DoctorProfile';
 import Financing from './pages/Financing';
 import FAQ from './pages/FAQ';
-import Rewards from './pages/Rewards';
+import BlogFeed from './pages/BlogFeed';
+import BlogPost from './pages/BlogPost';
 import ReferralCatcher from './pages/ReferralCatcher';
 import ScrollToTop from './components/ScrollToTop';
 import SEO from './components/SEO';
@@ -35,7 +36,8 @@ export default function App() {
                   <Route path="contact" element={<Contact />} />
                   <Route path="financing" element={<Financing />} />
                   <Route path="faq" element={<FAQ />} />
-                  <Route path="rewards" element={<Rewards />} />
+                  <Route path="blog" element={<BlogFeed />} />
+                  <Route path="blog/:slug" element={<BlogPost />} />
                 </Route>
                 <Route path="/ref/:id" element={<ReferralCatcher />} />
               </Routes>

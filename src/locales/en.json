@@ -7,8 +7,8 @@
       "contactOurTeam": "Contact Our Team"
     },
     "seo": {
-      "title": "ID WELLNESS DENTAL | Advanced Dental & Facial Esthetics in Newark, NJ",
-      "description": "Discover luxury dental care and premium facial esthetics. From implants to Botox, we redefine wellness in Newark."
+      "title": "ID WELLNESS DENTAL | Cosmetic Dentistry & Esthetics in Newark, NJ",
+      "description": "Experience luxury dental care and premium facial esthetics in Newark, NJ. From dental implants to wrinkle relaxers, we redefine wellness in the Ironbound and surrounding New Jersey communities."
     },
     "testimonials": {
       "title": "Real Results, Real Stories",
@@ -42,17 +42,18 @@
       "services": "Services",
       "beforeAfter": "Before & After",
       "contact": "Contact",
+      "blog": "Blog",
       "financing": "Financing",
       "bookConsultation": "Book Consultation"
     },
     "hero": {
-      "badge": "Premium Dental Studio",
+      "badge": "Premium Dental Studio in Newark, NJ",
       "title1": "Where Advanced Dentistry Meets",
       "title2": "Esthetic Wellness.",
-      "desc": "Experience a new standard of care. ID WELLNESS DENTAL combines cutting-edge dental procedures with premium facial esthetics in a luxurious, relaxing environment.",
+      "desc": "Experience a new standard of care at New Jersey's premier dental studio. ID WELLNESS DENTAL combines cutting-edge dental procedures with premium facial esthetics in a luxurious, relaxing environment.",
       "bookBtn": "Book an Appointment",
       "exploreBtn": "Explore Services",
-      "trustedBy": "Trusted by 1,000+ patients in the area."
+      "trustedBy": "Trusted by 1,000+ patients in the Newark area."
     },
     "trust": {
       "starTitle": "5-Star Rated",
@@ -66,11 +67,16 @@
       "title": "What is Your Goal?",
       "desc": "Select your desired outcome to discover the perfect treatments tailored to you.",
       "brighterSmile": "Brighter Smile",
+      "porcelainVeneers": "Porcelain Veneers",
+      "restoreMissingTeeth": "Restore Missing Teeth",
+      "relieveToothPain": "Relieve Tooth Pain",
+      "fixChippedTeeth": "Fix Chipped Teeth",
+      "totalSmileMakeover": "Total Smile Makeover",
       "straightenTeeth": "Straighten Teeth",
       "sharpJawline": "Sharp Jawline",
       "healthyGums": "Healthy Gums",
       "wrinkleFree": "Wrinkle-Free Year",
-      "wrinkleFreeDesc": "Join our ID Botox Club for $100/mo and stay smooth all year.",
+      "wrinkleFreeDesc": "Join our ID Wrinkle-Free Club for $100/mo and stay smooth all year.",
       "affordableSmile": "Affordable Luxury Smile",
       "affordableSmileDesc": "Join the ID Bright Smile Plan for exclusive 20% savings.",
       "idBrightSmilePlan": "ID Bright Smile Plan",
@@ -83,7 +89,7 @@
       "title": "Our Premium Services",
       "desc": "Personalized treatments designed to enhance your natural beauty and ensure optimal oral health.",
       "cosmeticTitle": "Cosmetic Dentistry",
-      "cosmeticDesc": "Achieve the perfect smile with our advanced cosmetic dentistry services.",
+      "cosmeticDesc": "Achieve the perfect smile with our advanced cosmetic dentistry services in Newark, NJ.",
       "cosmeticBtn": "Explore Cosmetic",
       "generalTitle": "General Dentistry",
       "generalDesc": "Maintain optimal oral health with our comprehensive general dentistry services.",
@@ -92,7 +98,7 @@
       "orthoDesc": "Straighten your teeth discreetly with our advanced orthodontic solutions.",
       "orthoBtn": "Explore Orthodontics",
       "implantsTitle": "Implants",
-      "implantsDesc": "Restore missing teeth with permanent, natural-looking dental implants.",
+      "implantsDesc": "Restore missing teeth with permanent, natural-looking dental implants in the heart of Newark.",
       "implantsBtn": "Explore Implants",
       "endoTitle": "Endodontics",
       "endoDesc": "Save infected teeth and relieve pain with expert root canal therapy.",
@@ -124,7 +130,7 @@
       "speechBubble": "Hey there! Need help? Text us!"
     },
     "footer": {
-      "desc": "Elevating your confidence through advanced dentistry and premium esthetic wellness.",
+      "desc": "Elevating your confidence through advanced dentistry and premium esthetic wellness. Proudly serving Newark and surrounding New Jersey communities.",
       "quickLinks": "Quick Links",
       "contact": "Contact",
       "medicalSafety": "Medical Safety & Data Privacy:",
@@ -382,8 +388,8 @@
         "description": "Rejuvenate your appearance with our non-surgical facial treatments.",
         "longDescription": "Enhance your natural beauty with our range of facial esthetics treatments. Our experts use safe, effective procedures to smooth wrinkles and restore volume.",
         "services": {
-          "botox": {
-            "name": "Botox® & Neuromodulators",
+          "wrinkleRelaxers": {
+            "name": "Wrinkle Relaxers & Neuromodulators",
             "description": "Smooth fine lines and wrinkles for a refreshed look.",
             "painLevel": "Minimal",
             "downtime": "None",
@@ -517,8 +523,8 @@
           "a": "We offer a range of treatments from scaling and root planing (deep cleaning) to advanced laser therapy and gum grafting, depending on the severity of the disease."
         },
         "facial1": {
-          "q": "How does Botox complement my smile?",
-          "a": "Botox can enhance your smile by smoothing lip lines, correcting a \"gummy smile,\" and relaxing facial muscles to frame your new smile with a more youthful and refreshed appearance."
+          "q": "How do wrinkle relaxers complement my smile?",
+          "a": "Wrinkle relaxers can enhance your smile by smoothing lip lines, correcting a \"gummy smile,\" and relaxing facial muscles to frame your new smile with a more youthful and refreshed appearance."
         },
         "facial2": {
           "q": "Will my dermal filler results look natural?",
@@ -526,7 +532,7 @@
         },
         "facial3": {
           "q": "How long do facial esthetic treatments last?",
-          "a": "Botox results typically last 3-4 months, while dermal fillers can last anywhere from 6 to 18 months, depending on the product used and the area treated."
+          "a": "Wrinkle relaxer results typically last 3-4 months, while dermal fillers can last anywhere from 6 to 18 months, depending on the product used and the area treated."
         },
         "financing1": {
           "q": "What are the benefits of the ID Bright Smile Plan?",
@@ -599,10 +605,10 @@
         "facial": {
           "title": "Facial Rejuvenation",
           "desc": "Non-surgical facelift using dermal fillers.",
-          "description": "Explore the subtle yet profound results of our non-surgical facial rejuvenation treatments. From Botox to dermal fillers, see how we restore volume, smooth wrinkles, and enhance natural beauty.",
+          "description": "Explore the subtle yet profound results of our non-surgical facial rejuvenation treatments. From wrinkle relaxers to dermal fillers, see how we restore volume, smooth wrinkles, and enhance natural beauty.",
           "cases": {
             "1": "Dermal fillers to restore mid-face volume.",
-            "2": "Botox treatment for smoothing forehead lines.",
+            "2": "Wrinkle relaxer treatment for smoothing forehead lines.",
             "3": "Jawline contouring for a sharper profile.",
             "4": "Lip enhancement for natural-looking fullness.",
             "5": "Under-eye rejuvenation to reduce dark circles.",
@@ -689,14 +695,40 @@
         }
       }
     },
+    "blog": {
+      "title": "The Wellness",
+      "titleHighlight": "Journal",
+      "subtitle": "Insights on advanced dentistry, facial esthetics, and maintaining your ultimate smile.",
+      "minRead": "min read",
+      "readArticle": "Read Article",
+      "relatedArticles": "Related Articles",
+      "bookConsultation": "Book Consultation",
+      "articleNotFound": "Article Not Found",
+      "returnToJournal": "Return to Journal",
+      "backToJournal": "Back to Journal",
+      "continueReading": "Continue Reading",
+      "viewAllArticles": "View All Articles",
+      "newsletterTitle": "Join the ID Wellness Club",
+      "newsletterDesc": "Subscribe to our exclusive newsletter for the latest insights on advanced dentistry, facial esthetics, and VIP offers.",
+      "newsletterPlaceholder": "Enter your email address",
+      "newsletterSubscribe": "Subscribe",
+      "serviceSpotlight": "Service Spotlight",
+      "exploreService": "Explore Service",
+      "spotlightCosmeticTitle": "Premium Cosmetic Dentistry",
+      "spotlightCosmeticDesc": "Ready to transform your smile? Discover our custom porcelain veneers and smile makeover services.",
+      "spotlightImplantsTitle": "Advanced Dental Implants",
+      "spotlightImplantsDesc": "Restore your confidence with our permanent, natural-looking dental implant solutions.",
+      "spotlightFacialTitle": "Facial Esthetics",
+      "spotlightFacialDesc": "Complement your smile with our premium facial rejuvenation treatments."
+    },
     "financing": {
       "title": "Flexible Payment Plans",
       "subtitle": "We believe everyone deserves access to quality care. Choose the payment option that works best for you.",
       "cherry_title": "Cherry",
       "carecredit_title": "CareCredit",
-      "tox_club_title": "Botox Club",
-      "tox_club_price": "$100/month",
-      "tox_club_desc": "Bank your money for future treatments!",
+      "wrinkle_free_club_title": "Wrinkle-Free Club",
+      "wrinkle_free_club_price": "$100/month",
+      "wrinkle_free_club_desc": "Bank your money for future treatments!",
       "cherry": {
         "desc": "Get treated now and pay over time with Cherry. Apply in seconds and choose from flexible payment plans.",
         "feature1": "No hard credit check",
@@ -721,14 +753,14 @@
       "membership": {
         "title": "Membership Plans",
         "subtitle": "Join our exclusive membership programs for savings and consistent care.",
-        "botoxClub": {
+        "wrinkleFreeClub": {
           "badge": "Most Popular",
-          "title": "Botox Club",
+          "title": "Wrinkle-Free Club",
           "price": "$100",
           "unit": "/month",
           "commitment": "(1 year commitment)",
           "desc": "Covers up to 4 applications per year.",
-          "button": "Join Botox Club",
+          "button": "Join Wrinkle-Free Club",
           "includedTitle": "What's Included:",
           "item1": "Unlimited units for Forehead, Glabellar, Crow’s Feet, and Nasalis muscles",
           "item2": "Priority booking for all appointments"

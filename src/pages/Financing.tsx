@@ -133,28 +133,28 @@ export default function Financing() {
             <div>
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-200 text-slate-700 text-sm font-semibold mb-6">
                 <Star className="w-4 h-4 fill-current" />
-                <span>{t('financing.membership.botoxClub.badge')}</span>
+                <span>{t('financing.membership.wrinkleFreeClub.badge')}</span>
               </div>
               <h3 className="text-3xl lg:text-4xl font-serif text-brand-dark mb-4">
-                {t('financing.membership.botoxClub.title')}
+                {t('financing.membership.wrinkleFreeClub.title')}
               </h3>
               <div className="flex items-baseline gap-2 mb-6">
-                <span className="text-4xl font-bold text-slate-700">{t('financing.membership.botoxClub.price')}</span>
-                <span className="text-brand-muted">{t('financing.membership.botoxClub.unit')}</span>
-                <span className="text-xs text-brand-muted ml-2">{t('financing.membership.botoxClub.commitment')}</span>
+                <span className="text-4xl font-bold text-slate-700">{t('financing.membership.wrinkleFreeClub.price')}</span>
+                <span className="text-brand-muted">{t('financing.membership.wrinkleFreeClub.unit')}</span>
+                <span className="text-xs text-brand-muted ml-2">{t('financing.membership.wrinkleFreeClub.commitment')}</span>
               </div>
               <p className="text-xl font-medium text-brand-dark mb-8 flex items-start gap-3 leading-relaxed">
                 <Sparkles className="w-6 h-6 text-slate-500 shrink-0 mt-0.5" />
-                {t('financing.membership.botoxClub.desc')}
+                {t('financing.membership.wrinkleFreeClub.desc')}
               </p>
               
               <a 
-                href="https://wa.me/12018934706?text=I'm%20interested%20in%20the%20Botox%20Membership"
+                href="https://wa.me/12018934706?text=I'm%20interested%20in%20the%20Wrinkle-Free%20Membership"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full md:w-auto inline-flex items-center justify-center gap-2 bg-brand-gold hover:bg-brand-gold-hover text-white px-8 py-4 rounded-full text-base font-medium transition-all shadow-md hover:shadow-lg"
               >
-                {t('financing.membership.botoxClub.button')}
+                {t('financing.membership.wrinkleFreeClub.button')}
                 <ArrowRight className="w-4 h-4" />
               </a>
             </div>
@@ -162,17 +162,17 @@ export default function Financing() {
             <div className="bg-white rounded-3xl p-8 shadow-sm border border-slate-200">
               <h4 className="font-serif text-xl mb-6 flex items-center gap-2">
                 <ShieldCheck className="w-5 h-5 text-slate-500" />
-                {t('financing.membership.botoxClub.includedTitle')}
+                {t('financing.membership.wrinkleFreeClub.includedTitle')}
               </h4>
               
               <ul className="space-y-4 mb-2">
                 <li className="flex items-center gap-3 font-medium text-brand-dark">
                   <div className="w-2 h-2 rounded-full bg-slate-400 shrink-0"></div>
-                  {t('financing.membership.botoxClub.item1')}
+                  {t('financing.membership.wrinkleFreeClub.item1')}
                 </li>
                 <li className="flex items-start gap-3 font-medium text-brand-dark">
                   <div className="w-2 h-2 rounded-full bg-slate-400 shrink-0 mt-2"></div>
-                  <span className="leading-relaxed">{t('financing.membership.botoxClub.item2')}</span>
+                  <span className="leading-relaxed">{t('financing.membership.wrinkleFreeClub.item2')}</span>
                 </li>
               </ul>
             </div>

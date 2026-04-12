@@ -18,7 +18,7 @@ export default function SEO() {
     <Helmet>
       <title>{title}</title>
       <meta name="description" content={description} />
-      <meta name="keywords" content="Dentistry, Facial Esthetics, Aesthetic Wellness, Newark NJ, Botox, Dental Implants, ID WELLNESS DENTAL" />
+      <meta name="keywords" content="Dentistry, Facial Esthetics, Aesthetic Wellness, Newark NJ, Ironbound, New Jersey, Wrinkle Relaxers, Dental Implants, ID WELLNESS DENTAL" />
 
       {/* Open Graph / Facebook */}
       <meta property="og:type" content="website" />

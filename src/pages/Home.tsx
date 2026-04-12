@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getServicesList } from '../data/services';
 import TestimonialsCarousel from '../components/TestimonialsCarousel';
+import BlogSlider from '../components/BlogSlider';
 
 export default function Home() {
   const { t } = useTranslation();
@@ -151,10 +152,14 @@ export default function Home() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
             {[
-              { title: t('goals.brighterSmile'), link: '/financing#membership', image: 'https://i.postimg.cc/ZKbZnV6b/Chat-GPT-Image-Mar-3-2026-10-25-34-AM.png', description: t('goals.affordableSmileDesc'), badge: t('goals.memberExclusive') },
+              { title: t('goals.porcelainVeneers'), link: '/service/cosmetic-dentistry#porcelain-veneers', image: 'https://i.postimg.cc/m2328F2Y/Chat-GPT-Image-Mar-2-2026-03-46-34-PM.png' },
               { title: t('goals.straightenTeeth'), link: '/service/orthodontics#invisalign', image: 'https://i.postimg.cc/cHCV6r5V/Chat-GPT-Image-Mar-3-2026-05-36-10-PM.png' },
               { title: t('goals.sharpJawline'), link: '/service/facial-esthetics#dermal-fillers', image: 'https://i.postimg.cc/HLHFvL3G/Chat-GPT-Image-Mar-3-2026-10-41-07-AM.png' },
               { title: t('goals.healthyGums'), link: '/service/periodontics', image: 'https://i.postimg.cc/kXPqYvHS/Chat-GPT-Image-Mar-3-2026-05-37-51-PM.png' },
+              { title: t('goals.restoreMissingTeeth'), link: '/service/implants', image: 'https://i.postimg.cc/9MMh2JTf/Chat-GPT-Image-Mar-2-2026-04-40-00-PM.png' },
+              { title: t('goals.relieveToothPain'), link: '/service/endodontics', image: 'https://i.postimg.cc/HW6vYDzL/root-canal.jpg' },
+              { title: t('goals.fixChippedTeeth'), link: '/service/cosmetic-dentistry#composite-veneers', image: 'https://i.postimg.cc/LstzfTGx/Chat-GPT-Image-Mar-3-2026-05-47-31-PM.png' },
+              { title: t('goals.totalSmileMakeover'), link: '/service/cosmetic-dentistry#smile-design', image: 'https://i.postimg.cc/63xMxTxD/Chat-GPT-Image-Mar-2-2026-04-37-36-PM.png' },
               { title: t('goals.wrinkleFree'), link: '/financing#membership', image: 'https://i.postimg.cc/BnwMHQyF/unnamed-(1).jpg', badge: t('goals.bestSeller'), description: t('goals.wrinkleFreeDesc') },
               { title: t('goals.idBrightSmilePlan'), link: '/financing#membership', image: 'https://i.postimg.cc/wT4hb4VB/unnamed-(2).jpg', badge: t('goals.memberExclusive'), description: t('goals.idBrightSmilePlanDesc') },
             ].map((goal, idx) => (
@@ -190,6 +195,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Blog Slider Section */}
+      <BlogSlider />
 
       {/* Services Section */}
       <section id="services" className="py-24 lg:py-32">

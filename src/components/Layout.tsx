@@ -5,7 +5,6 @@ import { useTranslation } from 'react-i18next';
 import LanguageModal from './LanguageModal';
 import BotWidget from './BotWidget';
 import Logo from './Logo';
-import { supabase } from '../lib/supabaseClient';
 
 export default function Layout() {
   const { t, i18n } = useTranslation();
@@ -15,32 +14,8 @@ export default function Layout() {
   const [isLanguageSelected, setIsLanguageSelected] = useState(() => {
     return !!localStorage.getItem('languageSelected');
   });
-  const [session, setSession] = useState<any>(null);
-  const [userName, setUserName] = useState<string | null>(null);
   const langRef = useRef<HTMLDivElement>(null);
   const location = useLocation();
-
-  useEffect(() => {
-    supabase.auth.getSession().then(({ data: { session } }) => {
-      setSession(session);
-      if (session?.user?.user_metadata?.full_name) {
-        setUserName(session.user.user_metadata.full_name);
-      }
-    });
-
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
-      setSession(session);
-      if (session?.user?.user_metadata?.full_name) {
-        setUserName(session.user.user_metadata.full_name);
-      } else {
-        setUserName(null);
-      }
-    });
-
-    return () => subscription.unsubscribe();
-  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -69,7 +44,7 @@ export default function Layout() {
     { name: t('nav.about'), path: '/about' },
     { name: t('nav.services'), path: '/services' },
     { name: t('nav.contact'), path: '/contact' },
-    { name: session ? (userName || 'My Dashboard') : 'Login / My Rewards', path: '/rewards' },
+    { name: t('nav.blog'), path: '/blog' },
   ];
 
   return (
@@ -84,76 +59,79 @@ export default function Layout() {
           {/* Logo */}
           <Logo />
 
-          {/* Desktop Nav */}
-          <nav className="hidden md:flex items-center gap-4 lg:gap-6">
-            {navLinks.map((item) => (
-              item.isExternal ? (
-                <a
-                  key={item.name}
-                  href={item.path}
+          {/* Right Side: Nav & CTAs */}
+          <div className="flex items-center gap-4 lg:gap-6">
+            {/* Desktop Nav & CTAs Grouped */}
+            <div className="hidden md:flex items-center gap-6 lg:gap-8">
+              <nav className="flex items-center gap-4 lg:gap-6">
+                {navLinks.map((item) => (
+                  item.isExternal ? (
+                    <a
+                      key={item.name}
+                      href={item.path}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark"
+                    >
+                      {item.name}
+                      <span className="absolute -bottom-2 left-0 w-0 h-[2px] bg-brand-gold transition-all duration-300 group-hover:w-full"></span>
+                    </a>
+                  ) : (
+                    <Link
+                      key={item.name}
+                      to={item.path}
+                      className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark"
+                    >
+                      {item.name}
+                      <span className="absolute -bottom-2 left-0 w-0 h-[2px] bg-brand-gold transition-all duration-300 group-hover:w-full"></span>
+                    </Link>
+                  )
+                ))}
+              </nav>
+
+              <div className="flex items-center gap-4">
+                <Link 
+                  to="/financing"
+                  className="flex items-center gap-2 border border-brand-gold text-brand-gold hover:bg-brand-gold hover:text-white px-6 py-2.5 rounded-full text-xs uppercase tracking-widest font-medium transition-all"
+                >
+                  {t('nav.financing')}
+                </Link>
+                <a 
+                  href={"https://bookit.dentrixascend.com/soe/new/dental?pid=ASC64000000020970&mode=externalLink"}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark"
+                  className="flex items-center gap-2 bg-brand-gold hover:bg-brand-gold-hover text-white px-6 py-2.5 rounded-full text-xs uppercase tracking-widest font-medium transition-all shadow-sm hover:shadow-md"
                 >
-                  {item.name}
-                  <span className="absolute -bottom-2 left-0 w-0 h-[2px] bg-brand-gold transition-all duration-300 group-hover:w-full"></span>
+                  <Calendar className="w-3.5 h-3.5" />
+                  {t('nav.bookConsultation')}
                 </a>
-              ) : (
-                <Link
-                  key={item.name}
-                  to={item.path}
-                  className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark"
+
+                {/* Language Switcher */}
+                <div 
+                  className="relative" 
+                  ref={langRef}
+                  onMouseEnter={() => setIsLangOpen(true)}
+                  onMouseLeave={() => setIsLangOpen(false)}
                 >
-                  {item.name}
-                  <span className="absolute -bottom-2 left-0 w-0 h-[2px] bg-brand-gold transition-all duration-300 group-hover:w-full"></span>
-                </Link>
-              )
-            ))}
-            
-          </nav>
-
-          {/* CTA & Mobile Toggle */}
-          <div className="flex items-center gap-4">
-            <Link 
-              to="/financing"
-              className="hidden md:flex items-center gap-2 border border-brand-gold text-brand-gold hover:bg-brand-gold hover:text-white px-6 py-2.5 rounded-full text-xs uppercase tracking-widest font-medium transition-all"
-            >
-              {t('nav.financing')}
-            </Link>
-            <a 
-              href={"https://bookit.dentrixascend.com/soe/new/dental?pid=ASC64000000020970&mode=externalLink"}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hidden md:flex items-center gap-2 bg-brand-gold hover:bg-brand-gold-hover text-white px-6 py-2.5 rounded-full text-xs uppercase tracking-widest font-medium transition-all shadow-sm hover:shadow-md"
-            >
-              <Calendar className="w-3.5 h-3.5" />
-              {t('nav.bookConsultation')}
-            </a>
-
-            {/* Language Switcher */}
-            <div 
-              className="relative hidden md:block" 
-              ref={langRef}
-              onMouseEnter={() => setIsLangOpen(true)}
-              onMouseLeave={() => setIsLangOpen(false)}
-            >
-              <button 
-                className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark flex items-center gap-1 py-2"
-                onClick={() => setIsLangOpen(!isLangOpen)}
-              >
-                <Globe className="w-3.5 h-3.5" />
-                {i18n.language.split('-')[0].toUpperCase()}
-              </button>
-              
-              <div 
-                className={`absolute top-full right-0 mt-2 w-24 bg-white/90 backdrop-blur-md border border-brand-gold/20 rounded-xl shadow-xl overflow-hidden transition-all duration-300 origin-top z-50 ${
-                  isLangOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'
-                }`}
-              >
-                <div className="py-2 flex flex-col items-center">
-                  <button onClick={() => changeLanguage('en')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">EN</button>
-                  <button onClick={() => changeLanguage('es')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">ES</button>
-                  <button onClick={() => changeLanguage('pt')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">PT</button>
+                  <button 
+                    className="group relative text-xs uppercase tracking-[0.2em] text-slate-600 font-medium transition-colors hover:text-brand-dark flex items-center gap-1 py-2"
+                    onClick={() => setIsLangOpen(!isLangOpen)}
+                  >
+                    <Globe className="w-3.5 h-3.5" />
+                    {i18n.language.split('-')[0].toUpperCase()}
+                  </button>
+                  
+                  <div 
+                    className={`absolute top-full right-0 mt-2 w-24 bg-white/90 backdrop-blur-md border border-brand-gold/20 rounded-xl shadow-xl overflow-hidden transition-all duration-300 origin-top z-50 ${
+                      isLangOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'
+                    }`}
+                  >
+                    <div className="py-2 flex flex-col items-center">
+                      <button onClick={() => changeLanguage('en')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">EN</button>
+                      <button onClick={() => changeLanguage('es')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">ES</button>
+                      <button onClick={() => changeLanguage('pt')} className="w-full py-2 text-xs uppercase tracking-widest text-slate-600 hover:text-brand-gold hover:bg-brand-gold/5 transition-colors">PT</button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -245,7 +223,7 @@ export default function Layout() {
             </p>
             <div className="flex gap-4">
               <a 
-                href="https://www.instagram.com/idwellness_" 
+                href="https://www.instagram.com/idwellnessdental" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-10 h-10 rounded-full bg-white/10 hover:bg-brand-gold transition-colors flex items-center justify-center text-white hover:text-white group"
@@ -287,6 +265,7 @@ export default function Layout() {
               <li><Link to="/services" className="hover:text-brand-gold transition-colors">{t('nav.services')}</Link></li>
               <li><Link to="/faq" className="hover:text-brand-gold transition-colors">FAQ</Link></li>
               <li><Link to="/contact" className="hover:text-brand-gold transition-colors">{t('nav.contact')}</Link></li>
+              <li><Link to="/blog" className="hover:text-brand-gold transition-colors">{t('nav.blog')}</Link></li>
             </ul>
           </div>
 
